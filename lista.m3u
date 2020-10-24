@@ -1,17 +1,5 @@
-#EXTINF:-1 tvg-id="" tvg-name="------|Portugal|------" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/------|Portugal|------.png" group-title="PT General",------|Portugal|------
-http://f7.ppiao.club:8880/ygtest24/FRES6688/3169
-#EXTINF:-1 tvg-id="" tvg-name="PT:-----|GENERAL|-------------------------------------" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT-----|GENERAL|-------------------------------------.png" group-title="PT General",PT:-----|GENERAL|-------------------------------------
-http://f7.ppiao.club:8880/ygtest24/FRES6688/60647
-#EXTINF:-1 tvg-id="afro.music.pt" tvg-name="PT003:Afro Music" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT003AfroMusic.png" group-title="PT General",PT003:Afro Music
-http://f7.ppiao.club:8880/ygtest24/FRES6688/3247
-#EXTINF:-1 tvg-id="artv.pt" tvg-name="PT005:ARTV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT005ARTV.png" group-title="PT General",PT005:ARTV
-http://f7.ppiao.club:8880/ygtest24/FRES6688/3245
-#EXTINF:-1 tvg-id="CacaEPesca.pt" tvg-name="PT017:Casa E Pesca" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT017CasaEPesca.png" group-title="PT General",PT017:Casa E Pesca
-http://f7.ppiao.club:8880/ygtest24/FRES6688/3233
-#EXTINF:-1 tvg-id="cbs.reality.pt" tvg-name="PT018:CBS Reality" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT018CBSReality.png" group-title="PT General",PT018:CBS Reality
-http://f7.ppiao.club:8880/ygtest24/FRES6688/3232
-#EXTINF:-1 tvg-id="e.entertainment.pt" tvg-name="PT024:E! Entertainment" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT024E!Entertainment.png" group-title="PT General",PT024:E! Entertainment
-http://f7.ppiao.club:8880/ygtest24/FRES6688/3226
+#EXTINF:-1 tvg-id="fuel.pt" tvg-name="STREAM DO PC" tvg-logo="https://i.imgur.com/bYRE1Vc.png" group-title="PT General",PT033:streamdopc
+http://192.168.1.10:8080
 #EXTINF:-1 tvg-id="euronews.pt" tvg-name="PT027:Euro Sport News" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT027EuroSportNews.png" group-title="PT General",PT027:Euro Sport News
 http://f7.ppiao.club:8880/ygtest24/FRES6688/3223
 #EXTINF:-1 tvg-id="fox.life.pt" tvg-name="PT031:Fox Life" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT031FoxLife.png" group-title="PT General",PT031:Fox Life
