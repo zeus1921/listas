@@ -1,0 +1,326 @@
+#EXTINF:-1 tvg-id="" tvg-name="------|Portugal|------" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/------|Portugal|------.png" group-title="PT General",------|Portugal|------
+http://f7.ppiao.club:8880/ygtest24/FRES6688/3169
+#EXTINF:-1 tvg-id="" tvg-name="PT:-----|GENERAL|-------------------------------------" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT-----|GENERAL|-------------------------------------.png" group-title="PT General",PT:-----|GENERAL|-------------------------------------
+http://f7.ppiao.club:8880/ygtest24/FRES6688/60647
+#EXTINF:-1 tvg-id="afro.music.pt" tvg-name="PT003:Afro Music" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT003AfroMusic.png" group-title="PT General",PT003:Afro Music
+http://f7.ppiao.club:8880/ygtest24/FRES6688/3247
+#EXTINF:-1 tvg-id="artv.pt" tvg-name="PT005:ARTV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT005ARTV.png" group-title="PT General",PT005:ARTV
+http://f7.ppiao.club:8880/ygtest24/FRES6688/3245
+#EXTINF:-1 tvg-id="CacaEPesca.pt" tvg-name="PT017:Casa E Pesca" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT017CasaEPesca.png" group-title="PT General",PT017:Casa E Pesca
+http://f7.ppiao.club:8880/ygtest24/FRES6688/3233
+#EXTINF:-1 tvg-id="cbs.reality.pt" tvg-name="PT018:CBS Reality" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT018CBSReality.png" group-title="PT General",PT018:CBS Reality
+http://f7.ppiao.club:8880/ygtest24/FRES6688/3232
+#EXTINF:-1 tvg-id="e.entertainment.pt" tvg-name="PT024:E! Entertainment" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT024E!Entertainment.png" group-title="PT General",PT024:E! Entertainment
+http://f7.ppiao.club:8880/ygtest24/FRES6688/3226
+#EXTINF:-1 tvg-id="euronews.pt" tvg-name="PT027:Euro Sport News" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT027EuroSportNews.png" group-title="PT General",PT027:Euro Sport News
+http://f7.ppiao.club:8880/ygtest24/FRES6688/3223
+#EXTINF:-1 tvg-id="fox.life.pt" tvg-name="PT031:Fox Life" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT031FoxLife.png" group-title="PT General",PT031:Fox Life
+http://f7.ppiao.club:8880/ygtest24/FRES6688/3219
+#EXTINF:-1 tvg-id="fuel.pt" tvg-name="PT033:Fuel TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT033FuelTV.png" group-title="PT General",PT033:Fuel TV
+http://f7.ppiao.club:8880/ygtest24/FRES6688/3217
+#EXTINF:-1 tvg-id="globo.pt" tvg-name="PT034:Globo" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT034Globo.png" group-title="PT General",PT034:Globo
+http://f7.ppiao.club:8880/ygtest24/FRES6688/3216
+#EXTINF:-1 tvg-id="mtv.portugal.pt" tvg-name="PT043:MTV Portuga" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT043MTVPortuga.png" group-title="PT General",PT043:MTV Portuga
+http://f7.ppiao.club:8880/ygtest24/FRES6688/3207
+#EXTINF:-1 tvg-id="pfc.pt" tvg-name="PT049:PFC" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT049PFC.png" group-title="PT General",PT049:PFC
+http://f7.ppiao.club:8880/ygtest24/FRES6688/3201
+#EXTINF:-1 tvg-id="Porto.pt" tvg-name="PT050:Porto Canal" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT050PortoCanal.png" group-title="PT General",PT050:Porto Canal
+http://f7.ppiao.club:8880/ygtest24/FRES6688/3200
+#EXTINF:-1 tvg-id="rtp.1.pt" tvg-name="PT051:RTP 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT051RTP1.png" group-title="PT General",PT051:RTP 1
+http://f7.ppiao.club:8880/ygtest24/FRES6688/3199
+#EXTINF:-1 tvg-id="rtp.2.pt" tvg-name="PT052:RTP 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT052RTP2.png" group-title="PT General",PT052:RTP 2
+http://f7.ppiao.club:8880/ygtest24/FRES6688/3198
+#EXTINF:-1 tvg-id="rtp.3.pt" tvg-name="PT053:RTP 3" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT053RTP3.png" group-title="PT General",PT053:RTP 3
+http://f7.ppiao.club:8880/ygtest24/FRES6688/3197
+#EXTINF:-1 tvg-id="sic.pt" tvg-name="PT054:Sic" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT054Sic.png" group-title="PT General",PT054:Sic
+http://f7.ppiao.club:8880/ygtest24/FRES6688/3196
+#EXTINF:-1 tvg-id="sic.mulher.pt" tvg-name="PT055:SIC Mulher" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT055SICMulher.png" group-title="PT General",PT055:SIC Mulher
+http://f7.ppiao.club:8880/ygtest24/FRES6688/3195
+#EXTINF:-1 tvg-id="sic.noticias.pt" tvg-name="PT056:SIC Noticias" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT056SICNoticias.png" group-title="PT General",PT056:SIC Noticias
+http://f7.ppiao.club:8880/ygtest24/FRES6688/3194
+#EXTINF:-1 tvg-id="sic.radical.pt" tvg-name="PT057:SIC Radical" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT057SICRadical.png" group-title="PT General",PT057:SIC Radical
+http://f7.ppiao.club:8880/ygtest24/FRES6688/3193
+#EXTINF:-1 tvg-id="syfy.pt" tvg-name="PT065:SYFY" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT065SYFY.png" group-title="PT General",PT065:SYFY
+http://f7.ppiao.club:8880/ygtest24/FRES6688/3185
+#EXTINF:-1 tvg-id="tlc.pt" tvg-name="PT066:TLC" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT066TLC.png" group-title="PT General",PT066:TLC
+http://f7.ppiao.club:8880/ygtest24/FRES6688/3184
+#EXTINF:-1 tvg-id="travel.pt" tvg-name="PT068:Travel Channel" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT068TravelChannel.png" group-title="PT General",PT068:Travel Channel
+http://f7.ppiao.club:8880/ygtest24/FRES6688/3182
+#EXTINF:-1 tvg-id="tv.galicia.pt" tvg-name="PT073:TV Galicia" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT073TVGalicia.png" group-title="PT General",PT073:TV Galicia
+http://f7.ppiao.club:8880/ygtest24/FRES6688/3177
+#EXTINF:-1 tvg-id="record.pt" tvg-name="PT075:TV Record" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT075TVRecord.png" group-title="PT General",PT075:TV Record
+http://f7.ppiao.club:8880/ygtest24/FRES6688/3175
+#EXTINF:-1 tvg-id="tvi.pt" tvg-name="PT077:TVI" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT077TVI.png" group-title="PT General",PT077:TVI
+http://f7.ppiao.club:8880/ygtest24/FRES6688/3173
+#EXTINF:-1 tvg-id="tvi24.pt" tvg-name="PT078:TVI 24" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT078TVI24.png" group-title="PT General",PT078:TVI 24
+http://f7.ppiao.club:8880/ygtest24/FRES6688/3172
+#EXTINF:-1 tvg-id="vh1.pt" tvg-name="PT079:VH1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT079VH1.png" group-title="PT General",PT079:VH1
+http://f7.ppiao.club:8880/ygtest24/FRES6688/3171
+#EXTINF:-1 tvg-id="" tvg-name="PT080:VH1 Classic" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT080VH1Classic.png" group-title="PT General",PT080:VH1 Classic
+http://f7.ppiao.club:8880/ygtest24/FRES6688/3170
+#EXTINF:-1 tvg-id="" tvg-name="PT081:TVI REALITY" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT081TVIREALITY.png" group-title="PT General",PT081:TVI REALITY
+http://f7.ppiao.club:8880/ygtest24/FRES6688/29409
+#EXTINF:-1 tvg-id="" tvg-name="PT082:TVC HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT082TVC.png" group-title="PT General",PT082:TVC HD
+http://f7.ppiao.club:8880/ygtest24/FRES6688/29408
+#EXTINF:-1 tvg-id="my.cuisine.pt" tvg-name="PT083:Foods Network" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT083FoodsNetwork.png" group-title="PT General",PT083:Foods Network
+http://f7.ppiao.club:8880/ygtest24/FRES6688/29407
+#EXTINF:-1 tvg-id="" tvg-name="PT084:TVI Reality HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT084TVIRealityHD.png" group-title="PT General",PT084:TVI Reality HD
+http://f7.ppiao.club:8880/ygtest24/FRES6688/29406
+#EXTINF:-1 tvg-id="rtp.memoria.pt" tvg-name="PT085:RTP MEMóRIA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT085RTPMEMóRIA.png" group-title="PT General",PT085:RTP MEMóRIA
+http://f7.ppiao.club:8880/ygtest24/FRES6688/29405
+#EXTINF:-1 tvg-id="rtp.africa.pt" tvg-name="PT086:RTP áFRICA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT086RTPáFRICA.png" group-title="PT General",PT086:RTP áFRICA
+http://f7.ppiao.club:8880/ygtest24/FRES6688/29404
+#EXTINF:-1 tvg-id="rtp.acores.pt" tvg-name="PT087:RTP ACORES" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT087RTPACORES.png" group-title="PT General",PT087:RTP ACORES
+http://f7.ppiao.club:8880/ygtest24/FRES6688/29403
+#EXTINF:-1 tvg-id="" tvg-name="PT088:RTP MADEIRA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT088RTPMADEIRA.png" group-title="PT General",PT088:RTP MADEIRA
+http://f7.ppiao.club:8880/ygtest24/FRES6688/29402
+#EXTINF:-1 tvg-id="cmtv.pt" tvg-name="PT094:CM TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT094CMTV.png" group-title="PT General",PT094:CM TV
+http://f7.ppiao.club:8880/ygtest24/FRES6688/29396
+#EXTINF:-1 tvg-id="" tvg-name="PT096:CANAL Q" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT096CANALQ.png" group-title="PT General",PT096:CANAL Q
+http://f7.ppiao.club:8880/ygtest24/FRES6688/29394
+#EXTINF:-1 tvg-id="24.kitchen.pt" tvg-name="PT097:24 KITCHEN" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT09724KITCHEN.png" group-title="PT General",PT097:24 KITCHEN
+http://f7.ppiao.club:8880/ygtest24/FRES6688/29393
+#EXTINF:-1 tvg-id="blaze.pt" tvg-name="PT106:Blaze" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT106Blaze.png" group-title="PT General",PT106:Blaze
+http://f7.ppiao.club:8880/ygtest24/FRES6688/29384
+#EXTINF:-1 tvg-id="bloomberg.pt" tvg-name="PT107:BLOOMBERG" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT107BLOOMBERG.png" group-title="PT General",PT107:BLOOMBERG
+http://f7.ppiao.club:8880/ygtest24/FRES6688/29383
+#EXTINF:-1 tvg-id="caca.e.pesca.pt" tvg-name="PT108:CACA E PESCA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT108CACA E PESCA.png" group-title="PT General",PT108:CACA E PESCA
+http://f7.ppiao.club:8880/ygtest24/FRES6688/29382
+#EXTINF:-1 tvg-id="tvi.ficcao.pt" tvg-name="PT109:TVI FICCAO HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT109TVI FICCAO.png" group-title="PT General",PT109:TVI FICCAO HD
+http://f7.ppiao.club:8880/ygtest24/FRES6688/29381
+#EXTINF:-1 tvg-id="mcm.pop.pt" tvg-name="PT110:MCM POP" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT110MCM POP.png" group-title="PT General",PT110:MCM POP
+http://f7.ppiao.club:8880/ygtest24/FRES6688/29380
+#EXTINF:-1 tvg-id="trace.urban.pt" tvg-name="PT111:Trace Urban" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT111Trace Urban.png" group-title="PT General",PT111:Trace Urban
+http://f7.ppiao.club:8880/ygtest24/FRES6688/29379
+#EXTINF:-1 tvg-id="" tvg-name="PT115:TVCINE 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT115TVCINE 2.png" group-title="PT General",PT115:TVCINE 2
+http://f7.ppiao.club:8880/ygtest24/FRES6688/29375
+#EXTINF:-1 tvg-id="clubbing.pt" tvg-name="PT118:TPA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT118TPA.png" group-title="PT General",PT118:TPA
+http://f7.ppiao.club:8880/ygtest24/FRES6688/29372
+#EXTINF:-1 tvg-id="sky.news.pt" tvg-name="PT125:DOG TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT125DOGTV.png" group-title="PT General",PT125:DOG TV
+http://f7.ppiao.club:8880/ygtest24/FRES6688/29365
+#EXTINF:-1 tvg-id="euronews.pt" tvg-name="PT126:EURONEWS" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT126EURONEWS.png" group-title="PT General",PT126:EURONEWS
+http://f7.ppiao.club:8880/ygtest24/FRES6688/29364
+#EXTINF:-1 tvg-id="" tvg-name="PT127:CACAVISION" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT127FIGHT NETWORH.png" group-title="PT General",PT127:CACAVISION
+http://f7.ppiao.club:8880/ygtest24/FRES6688/29363
+#EXTINF:-1 tvg-id="" tvg-name="PT128:FINE LIVING" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT128FINELIVING.png" group-title="PT General",PT128:FINE LIVING
+http://f7.ppiao.club:8880/ygtest24/FRES6688/29362
+#EXTINF:-1 tvg-id="" tvg-name="PT129:RTP INTERNACIONAL" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT129RTP INTERNACIONAL.png" group-title="PT General",PT129:RTP INTERNACIONAL
+http://f7.ppiao.club:8880/ygtest24/FRES6688/29361
+#EXTINF:-1 tvg-id="" tvg-name="PT130:Euronews" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT130Euronews.png" group-title="PT General",PT130:Euronews
+http://f7.ppiao.club:8880/ygtest24/FRES6688/29360
+#EXTINF:-1 tvg-id="globo.now.pt" tvg-name="PT132:Globo Now HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT132Globo Now.png" group-title="PT General",PT132:Globo Now HD
+http://f7.ppiao.club:8880/ygtest24/FRES6688/29358
+#EXTINF:-1 tvg-id="arte.pt" tvg-name="PT133:A Bola TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT133A Bola TV.png" group-title="PT General",PT133:A Bola TV
+http://f7.ppiao.club:8880/ygtest24/FRES6688/29357
+#EXTINF:-1 tvg-id="" tvg-name="PT135:MOTORVISION TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT135MOTORVISION TV.png" group-title="PT General",PT135:MOTORVISION TV
+http://f7.ppiao.club:8880/ygtest24/FRES6688/29355
+#EXTINF:-1 tvg-id="trace.toca.pt" tvg-name="PT137:RTP Acores" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT137Trace TOCA.png" group-title="PT General",PT137:RTP Acores
+http://f7.ppiao.club:8880/ygtest24/FRES6688/29353
+#EXTINF:-1 tvg-id="mezzo.pt" tvg-name="PT138:MEZZO HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT138MEZZOHD.png" group-title="PT General",PT138:MEZZO HD
+http://f7.ppiao.club:8880/ygtest24/FRES6688/29352
+#EXTINF:-1 tvg-id="mtv.live.pt" tvg-name="PT139:MTV HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT139MTVHD.png" group-title="PT General",PT139:MTV HD
+http://f7.ppiao.club:8880/ygtest24/FRES6688/29351
+#EXTINF:-1 tvg-id="" tvg-name="PT140:ZAP VIVA HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT140ZAP VIVA.png" group-title="PT General",PT140:ZAP VIVA HD
+http://f7.ppiao.club:8880/ygtest24/FRES6688/29350
+#EXTINF:-1 tvg-id="localvisao.pt" tvg-name="PT142:Localvisao" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT142Localvisao.png" group-title="PT General",PT142:Localvisao
+http://f7.ppiao.club:8880/ygtest24/FRES6688/29348
+#EXTINF:-1 tvg-id="globovision.pt" tvg-name="PT143:Globo TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT143Globo TV.png" group-title="PT General",PT143:Globo TV
+http://f7.ppiao.club:8880/ygtest24/FRES6688/29347
+#EXTINF:-1 tvg-id="pfc.pt" tvg-name="PT144:PFC INTERNACIONAL" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT144PFC INTERNACIONAL.png" group-title="PT General",PT144:PFC INTERNACIONAL
+http://f7.ppiao.club:8880/ygtest24/FRES6688/29346
+#EXTINF:-1 tvg-id="" tvg-name="PT147:CBS Reality" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT147RealMadridTV.png" group-title="PT General",PT147:CBS Reality
+http://f7.ppiao.club:8880/ygtest24/FRES6688/29343
+#EXTINF:-1 tvg-id="record.news.pt" tvg-name="PT148:CHELSEA TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT148Record News.png" group-title="PT General",PT148:CHELSEA TV
+http://f7.ppiao.club:8880/ygtest24/FRES6688/29342
+#EXTINF:-1 tvg-id="afro.music.pt" tvg-name="PT150:AFRO MUSIC CHANNEL" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT150AFRO MUSIC.png" group-title="PT General",PT150:AFRO MUSIC CHANNEL
+http://f7.ppiao.club:8880/ygtest24/FRES6688/29340
+#EXTINF:-1 tvg-id="rtp.memoria.pt" tvg-name="PT151:RTP Memoria" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT151RTPMemoria.png" group-title="PT General",PT151:RTP Memoria
+http://f7.ppiao.club:8880/ygtest24/FRES6688/29339
+#EXTINF:-1 tvg-id="" tvg-name="PT152:TV FATIMA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT152TV FATIMA.png" group-title="PT General",PT152:TV FATIMA
+http://f7.ppiao.club:8880/ygtest24/FRES6688/29338
+#EXTINF:-1 tvg-id="" tvg-name="PT:-----|SPORTS|--------------------------------------" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT-----|SPORTS|--------------------------------------.png" group-title="Poland",PT:-----|SPORTS|--------------------------------------
+http://f7.ppiao.club:8880/ygtest24/FRES6688/60650
+#EXTINF:-1 tvg-id="a.bola.pt" tvg-name="PT002:A Bola TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT002ABolaTV.png" group-title="PT Sports",PT002:A Bola TV
+http://f7.ppiao.club:8880/ygtest24/FRES6688/3248
+#EXTINF:-1 tvg-id="+.globosat.br" tvg-name="PT011:Benfica TV 1 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT011BenficaTV1.png" group-title="PT Sports",PT011:Benfica TV 1 FHD
+http://f7.ppiao.club:8880/ygtest24/FRES6688/3239
+#EXTINF:-1 tvg-id="+.globosat.br" tvg-name="PT012:Benfica TV 1 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT012BenficaTV2.png" group-title="PT Sports",PT012:Benfica TV 1 HD
+http://f7.ppiao.club:8880/ygtest24/FRES6688/3238
+#EXTINF:-1 tvg-id="btv.pt" tvg-name="PT013:Benfica TV 1 SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT013BenficaTV.png" group-title="PT Sports",PT013:Benfica TV 1 SD
+http://f7.ppiao.club:8880/ygtest24/FRES6688/3237
+#EXTINF:-1 tvg-id="eurosport.1.pt" tvg-name="PT025:Euro Sport 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT025EuroSport1.png" group-title="PT Sports",PT025:Euro Sport 1
+http://f7.ppiao.club:8880/ygtest24/FRES6688/3225
+#EXTINF:-1 tvg-id="eurosport.2.pt" tvg-name="PT026:Euro Sport 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT026EuroSport2.png" group-title="PT Sports",PT026:Euro Sport 2
+http://f7.ppiao.club:8880/ygtest24/FRES6688/3224
+#EXTINF:-1 tvg-id="motors.es" tvg-name="PT040:Motors TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT040MotorsTV.png" group-title="PT Sports",PT040:Motors TV
+http://f7.ppiao.club:8880/ygtest24/FRES6688/3210
+#EXTINF:-1 tvg-id="" tvg-name="PT041:Motor Vision" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT041MotorVision.png" group-title="PT Sports",PT041:Motor Vision
+http://f7.ppiao.club:8880/ygtest24/FRES6688/3209
+#EXTINF:-1 tvg-id="kombat.sport.pt" tvg-name="PT042:Kombat Sports" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT042KombatSports.png" group-title="PT Sports",PT042:Kombat Sports
+http://f7.ppiao.club:8880/ygtest24/FRES6688/3208
+#EXTINF:-1 tvg-id="sport.tv1.pt" tvg-name="PT058:Sport TV 1 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT058SportTV1.png" group-title="PT Sports",PT058:Sport TV 1 HD
+http://f7.ppiao.club:8880/ygtest24/FRES6688/3192
+#EXTINF:-1 tvg-id="sport.tv2.pt" tvg-name="PT059:Sport TV 2 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT059SportTV2.png" group-title="PT Sports",PT059:Sport TV 2 HD
+http://f7.ppiao.club:8880/ygtest24/FRES6688/3191
+#EXTINF:-1 tvg-id="sport.tv3.pt" tvg-name="PT060:Sport TV 3 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT060SportTV3.png" group-title="PT Sports",PT060:Sport TV 3 HD
+http://f7.ppiao.club:8880/ygtest24/FRES6688/3190
+#EXTINF:-1 tvg-id="sport.tv4.pt" tvg-name="PT061:Sport TV 4 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT061SportTV4.png" group-title="PT Sports",PT061:Sport TV 4 HD
+http://f7.ppiao.club:8880/ygtest24/FRES6688/3189
+#EXTINF:-1 tvg-id="sport.tv5.pt" tvg-name="PT062:Sport TV 5 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT062SportTV5.png" group-title="PT Sports",PT062:Sport TV 5 HD
+http://f7.ppiao.club:8880/ygtest24/FRES6688/3188
+#EXTINF:-1 tvg-id="sport.tv.4k.uhd.pt" tvg-name="PT063:SPORT TV+" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT063SportTV.png" group-title="PT Sports",PT063:SPORT TV+
+http://f7.ppiao.club:8880/ygtest24/FRES6688/3187
+#EXTINF:-1 tvg-id="sporting.pt" tvg-name="PT064:Sporting TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT064SportingTV.png" group-title="PT Sports",PT064:Sporting TV
+http://f7.ppiao.club:8880/ygtest24/FRES6688/3186
+#EXTINF:-1 tvg-id="toros.pt" tvg-name="PT067:Toros TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT067TorosTV.png" group-title="PT Sports",PT067:Toros TV
+http://f7.ppiao.club:8880/ygtest24/FRES6688/3183
+#EXTINF:-1 tvg-id="" tvg-name="PT093:EUROSPORT" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT093EUROSPORT.png" group-title="PT Sports",PT093:EUROSPORT
+http://f7.ppiao.club:8880/ygtest24/FRES6688/29397
+#EXTINF:-1 tvg-id="rtp.madeira.pt" tvg-name="PT098:SPORT TV 1 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT098SPORTTV1FHD.png" group-title="PT Sports",PT098:SPORT TV 1 FHD
+http://f7.ppiao.club:8880/ygtest24/FRES6688/29392
+#EXTINF:-1 tvg-id="" tvg-name="PT099:SPORT TV 2 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT099SPORTTV2FHD.png" group-title="PT Sports",PT099:SPORT TV 2 FHD
+http://f7.ppiao.club:8880/ygtest24/FRES6688/29391
+#EXTINF:-1 tvg-id="sport.tv3.pt" tvg-name="PT100:SPORT TV 3 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT100SPORTTV3FHD.png" group-title="PT Sports",PT100:SPORT TV 3 FHD
+http://f7.ppiao.club:8880/ygtest24/FRES6688/29390
+#EXTINF:-1 tvg-id="tpa.internacional.pt" tvg-name="PT101:SPORT TV 4 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT101SPORTTV4FHD.png" group-title="PT Sports",PT101:SPORT TV 4 FHD
+http://f7.ppiao.club:8880/ygtest24/FRES6688/29389
+#EXTINF:-1 tvg-id="dogtv.pt" tvg-name="PT102:SPORT TV 1 SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT102SPORTTV1SD.png" group-title="PT Sports",PT102:SPORT TV 1 SD
+http://f7.ppiao.club:8880/ygtest24/FRES6688/29388
+#EXTINF:-1 tvg-id="cacavision.pt" tvg-name="PT103:SPORT TV 2 SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT103SPORTTV2SD.png" group-title="PT Sports",PT103:SPORT TV 2 SD
+http://f7.ppiao.club:8880/ygtest24/FRES6688/29387
+#EXTINF:-1 tvg-id="euronews.pt" tvg-name="PT104:SPORT TV 3 SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT104SPORTTV3SD.png" group-title="PT Sports",PT104:SPORT TV 3 SD
+http://f7.ppiao.club:8880/ygtest24/FRES6688/29386
+#EXTINF:-1 tvg-id="rtp.acores.pt" tvg-name="PT105:SPORT TV 4 SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT105SPORTTV4SD.png" group-title="PT Sports",PT105:SPORT TV 4 SD
+http://f7.ppiao.club:8880/ygtest24/FRES6688/29385
+#EXTINF:-1 tvg-id="canal.11.pt" tvg-name="PT112:Canal 11" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT112Canal11.png" group-title="PT Sports",PT112:Canal 11
+http://f7.ppiao.club:8880/ygtest24/FRES6688/29378
+#EXTINF:-1 tvg-id="cancao.nova.pt" tvg-name="PT114:Cancao Nova" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT114Cancao Nova.png" group-title="PT Sports",PT114:Cancao Nova
+http://f7.ppiao.club:8880/ygtest24/FRES6688/29376
+#EXTINF:-1 tvg-id="eleven.sports.1.pt" tvg-name="PT119:ELEVEN SPORTS 1 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT119ELEVENSPORTS1FHD.png" group-title="PT Sports",PT119:ELEVEN SPORTS 1 FHD
+http://f7.ppiao.club:8880/ygtest24/FRES6688/29371
+#EXTINF:-1 tvg-id="eleven.sports.2.pt" tvg-name="PT120:ELEVEN SPORTS 2 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT120ELEVENSPORTS2FHD.png" group-title="PT Sports",PT120:ELEVEN SPORTS 2 FHD
+http://f7.ppiao.club:8880/ygtest24/FRES6688/29370
+#EXTINF:-1 tvg-id="eleven.sports.3.pt" tvg-name="PT121:ELEVEN SPORTS 3 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT121ELEVENSPORTS3FHD.png" group-title="PT Sports",PT121:ELEVEN SPORTS 3 FHD
+http://f7.ppiao.club:8880/ygtest24/FRES6688/29369
+#EXTINF:-1 tvg-id="eleven.sports.4.pt" tvg-name="PT122:ELEVEN SPORTS 4 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT122ELEVENSPORTS4FHD.png" group-title="PT Sports",PT122:ELEVEN SPORTS 4 FHD
+http://f7.ppiao.club:8880/ygtest24/FRES6688/29368
+#EXTINF:-1 tvg-id="" tvg-name="PT124:Sport TV NBA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT124Sport TV NBA.png" group-title="PT Sports",PT124:Sport TV NBA
+http://f7.ppiao.club:8880/ygtest24/FRES6688/29366
+#EXTINF:-1 tvg-id="nba.pt" tvg-name="PT141:NBA FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT141NBAFHD.png" group-title="PT Sports",PT141:NBA FHD
+http://f7.ppiao.club:8880/ygtest24/FRES6688/29349
+#EXTINF:-1 tvg-id="canal.11.pt" tvg-name="PT146:TCV CABO VERDE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT146CANAL 11.png" group-title="PT Sports",PT146:TCV CABO VERDE
+http://f7.ppiao.club:8880/ygtest24/FRES6688/29344
+#EXTINF:-1 tvg-id="eleven.sports.5.pt" tvg-name="PT156:Eleven Sports 5" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT156Eleven Sports 5.png" group-title="PT Sports",PT156:Eleven Sports 5
+http://f7.ppiao.club:8880/ygtest24/FRES6688/29334
+#EXTINF:-1 tvg-id="" tvg-name="PT159:Eleven Sports 6 FHD" tvg-logo="" group-title="PT Sports",PT159:Eleven Sports 6 FHD
+http://f7.ppiao.club:8880/ygtest24/FRES6688/49032
+#EXTINF:-1 tvg-id="" tvg-name="PT:-----|MOVIES|--------------------------------------" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT-----|MOVIES|--------------------------------------.png" group-title="PT Movies",PT:-----|MOVIES|--------------------------------------
+http://f7.ppiao.club:8880/ygtest24/FRES6688/60648
+#EXTINF:-1 tvg-id="amc.pt" tvg-name="PT004:AMC" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT004AMC.png" group-title="PT Movies",PT004:AMC
+http://f7.ppiao.club:8880/ygtest24/FRES6688/3246
+#EXTINF:-1 tvg-id="axn.pt" tvg-name="PT006:AXN" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT006AXN.png" group-title="PT Movies",PT006:AXN
+http://f7.ppiao.club:8880/ygtest24/FRES6688/3244
+#EXTINF:-1 tvg-id="axn.black.es" tvg-name="PT007:AXN Black" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT007AXNBlack.png" group-title="PT Movies",PT007:AXN Black
+http://f7.ppiao.club:8880/ygtest24/FRES6688/3243
+#EXTINF:-1 tvg-id="axn.white.pt" tvg-name="PT008:AXN White" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT008AXNWhite.png" group-title="PT Movies",PT008:AXN White
+http://f7.ppiao.club:8880/ygtest24/FRES6688/3242
+#EXTINF:-1 tvg-id="cinemundo.pt" tvg-name="PT019:Cine Mundo" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT019CineMundo.png" group-title="PT Movies",PT019:Cine Mundo
+http://f7.ppiao.club:8880/ygtest24/FRES6688/3231
+#EXTINF:-1 tvg-id="fox.comedy.pt" tvg-name="PT028:Fox Comedy" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT028FoxComedy.png" group-title="PT Movies",PT028:Fox Comedy
+http://f7.ppiao.club:8880/ygtest24/FRES6688/3222
+#EXTINF:-1 tvg-id="fox.crime.pt" tvg-name="PT029:Fox Crime" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT029FoxCrime.png" group-title="PT Movies",PT029:Fox Crime
+http://f7.ppiao.club:8880/ygtest24/FRES6688/3221
+#EXTINF:-1 tvg-id="fox.pt" tvg-name="PT030:Fox" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT030Fox.png" group-title="PT Movies",PT030:Fox
+http://f7.ppiao.club:8880/ygtest24/FRES6688/3220
+#EXTINF:-1 tvg-id="fox.movies.pt" tvg-name="PT032:Fox Movies" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT032FoxMovies.png" group-title="PT Movies",PT032:Fox Movies
+http://f7.ppiao.club:8880/ygtest24/FRES6688/3218
+#EXTINF:-1 tvg-id="hollywood.pt" tvg-name="PT036:Hollywood" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT036Hollywood.png" group-title="PT Movies",PT036:Hollywood
+http://f7.ppiao.club:8880/ygtest24/FRES6688/3214
+#EXTINF:-1 tvg-id="MCSExtreme.pt" tvg-name="PT038:MCS Extreme" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT038MCSExtreme.png" group-title="PT Movies",PT038:MCS Extreme
+http://f7.ppiao.club:8880/ygtest24/FRES6688/3212
+#EXTINF:-1 tvg-id="" tvg-name="PT039:MOV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT039MOV.png" group-title="PT Movies",PT039:MOV
+http://f7.ppiao.club:8880/ygtest24/FRES6688/3211
+#EXTINF:-1 tvg-id="Tvcine1.pt" tvg-name="PT069:TV Cine 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT069TVCine1.png" group-title="PT Movies",PT069:TV Cine 1
+http://f7.ppiao.club:8880/ygtest24/FRES6688/3181
+#EXTINF:-1 tvg-id="Tvcine2.pt" tvg-name="PT070:TV Cine 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT070TVCine2.png" group-title="PT Movies",PT070:TV Cine 2
+http://f7.ppiao.club:8880/ygtest24/FRES6688/3180
+#EXTINF:-1 tvg-id="Tvcine3.pt" tvg-name="PT071:TV Cine 3" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT071TVCine3.png" group-title="PT Movies",PT071:TV Cine 3
+http://f7.ppiao.club:8880/ygtest24/FRES6688/3179
+#EXTINF:-1 tvg-id="Tvcine4.pt" tvg-name="PT072:TV Cine 4" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT072TVCine4.png" group-title="PT Movies",PT072:TV Cine 4
+http://f7.ppiao.club:8880/ygtest24/FRES6688/3178
+#EXTINF:-1 tvg-id="tv.globo.panorama.br" tvg-name="PT074:TV Globo Premium" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT074TVGloboPremium.png" group-title="PT Movies",PT074:TV Globo Premium
+http://f7.ppiao.club:8880/ygtest24/FRES6688/3176
+#EXTINF:-1 tvg-id="" tvg-name="PT076:TVC Series" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT076TVCSeries.png" group-title="PT Movies",PT076:TVC Series
+http://f7.ppiao.club:8880/ygtest24/FRES6688/3174
+#EXTINF:-1 tvg-id="" tvg-name="PT092:NOS Studios" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT092NOSStudios.png" group-title="PT Movies",PT092:NOS Studios
+http://f7.ppiao.club:8880/ygtest24/FRES6688/29398
+#EXTINF:-1 tvg-id="" tvg-name="PT131:TVCINE 1 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT131TVCINE1.png" group-title="PT Movies",PT131:TVCINE 1 HD
+http://f7.ppiao.club:8880/ygtest24/FRES6688/29359
+#EXTINF:-1 tvg-id="" tvg-name="PT155:TVCINE 4" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT155TVCINE 4.png" group-title="PT Movies",PT155:TVCINE 4
+http://f7.ppiao.club:8880/ygtest24/FRES6688/29335
+#EXTINF:-1 tvg-id="" tvg-name="PT:-----|KIDS|----------------------------------------" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT-----|KIDS|----------------------------------------.png" group-title="Poland",PT:-----|KIDS|----------------------------------------
+http://f7.ppiao.club:8880/ygtest24/FRES6688/60651
+#EXTINF:-1 tvg-id="baby.pt" tvg-name="PT009:Baby First" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT009BabyFirst.png" group-title="PT Kids",PT009:Baby First
+http://f7.ppiao.club:8880/ygtest24/FRES6688/3241
+#EXTINF:-1 tvg-id="baby.pt" tvg-name="PT010:Baby TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT010BabyTV.png" group-title="PT Kids",PT010:Baby TV
+http://f7.ppiao.club:8880/ygtest24/FRES6688/3240
+#EXTINF:-1 tvg-id="panda.pt" tvg-name="PT015:Canal Panda" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT015CanalPanda.png" group-title="PT Kids",PT015:Canal Panda
+http://f7.ppiao.club:8880/ygtest24/FRES6688/3235
+#EXTINF:-1 tvg-id="cartoon.network.pt" tvg-name="PT016:Cartoon Network" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT016CartoonNetwork.png" group-title="PT Kids",PT016:Cartoon Network
+http://f7.ppiao.club:8880/ygtest24/FRES6688/3234
+#EXTINF:-1 tvg-id="disney.pt" tvg-name="PT022:Disney Channel" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT022DisneyChannel.png" group-title="PT Kids",PT022:Disney Channel
+http://f7.ppiao.club:8880/ygtest24/FRES6688/3228
+#EXTINF:-1 tvg-id="disney.junior.pt" tvg-name="PT023:Disney Junior" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT023DisneyJunior.png" group-title="PT Kids",PT023:Disney Junior
+http://f7.ppiao.club:8880/ygtest24/FRES6688/3227
+#EXTINF:-1 tvg-id="jimjam.pt" tvg-name="PT037:Jim Jam" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT037JimJam.png" group-title="PT Kids",PT037:Jim Jam
+http://f7.ppiao.club:8880/ygtest24/FRES6688/3213
+#EXTINF:-1 tvg-id="nickelodeon.es" tvg-name="PT046:Nickelodeon" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT046Nickelodeon.png" group-title="PT Kids",PT046:Nickelodeon
+http://f7.ppiao.club:8880/ygtest24/FRES6688/3204
+#EXTINF:-1 tvg-id="panda.pt" tvg-name="PT048:Panda Biggs" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT048PandaBiggs.png" group-title="PT Kids",PT048:Panda Biggs
+http://f7.ppiao.club:8880/ygtest24/FRES6688/3202
+#EXTINF:-1 tvg-id="" tvg-name="PT089:NICKELODEON" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT089NICKELODEON.png" group-title="PT Kids",PT089:NICKELODEON
+http://f7.ppiao.club:8880/ygtest24/FRES6688/29401
+#EXTINF:-1 tvg-id="biggs.pt" tvg-name="PT091:BIGGS" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT091MCSLifestyleHD.png" group-title="PT Movies",PT091:BIGGS
+http://f7.ppiao.club:8880/ygtest24/FRES6688/29399
+#EXTINF:-1 tvg-id="panda.pt" tvg-name="PT095:CANAL PANDA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT095CCTV4.png" group-title="PT Kids",PT095:CANAL PANDA
+http://f7.ppiao.club:8880/ygtest24/FRES6688/29395
+#EXTINF:-1 tvg-id="jimjam.pt" tvg-name="PT134:JIMJAM" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT134JIMJAM.png" group-title="PT Kids",PT134:JIMJAM
+http://f7.ppiao.club:8880/ygtest24/FRES6688/29356
+#EXTINF:-1 tvg-id="" tvg-name="PT136:Nick Jr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT136Nick Jr.png" group-title="PT Kids",PT136:Nick Jr
+http://f7.ppiao.club:8880/ygtest24/FRES6688/29354
+#EXTINF:-1 tvg-id="panda.pt" tvg-name="PT145:PANDA HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT145PANDAHD.png" group-title="PT Kids",PT145:PANDA HD
+http://f7.ppiao.club:8880/ygtest24/FRES6688/29345
+#EXTINF:-1 tvg-id="sic.k.pt" tvg-name="PT149:SIC K" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT149SIC K.png" group-title="PT Kids",PT149:SIC K
+http://f7.ppiao.club:8880/ygtest24/FRES6688/29341
+#EXTINF:-1 tvg-id="sic.caras.pt" tvg-name="PT153:SIC CARAS FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT153SIC CARAS FHD.png" group-title="PT Kids",PT153:SIC CARAS FHD
+http://f7.ppiao.club:8880/ygtest24/FRES6688/29337
+#EXTINF:-1 tvg-id="" tvg-name="PT154:SIC Kids" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT154SIC Kids.png" group-title="PT Kids",PT154:SIC Kids
+http://f7.ppiao.club:8880/ygtest24/FRES6688/29336
+#EXTINF:-1 tvg-id="" tvg-name="PT:-----|DOCUMENTARY|---------------------------------" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT-----|DOCUMENTARY|---------------------------------.png" group-title="Poland",PT:-----|DOCUMENTARY|---------------------------------
+http://f7.ppiao.club:8880/ygtest24/FRES6688/60649
+#EXTINF:-1 tvg-id="+.globosat.br" tvg-name="PT001:A&E" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT001AE.png" group-title="PT Doc",PT001:A&E
+http://f7.ppiao.club:8880/ygtest24/FRES6688/3249
+#EXTINF:-1 tvg-id="historia.pt" tvg-name="PT014:Canal Historia" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT014CanalHistoria.png" group-title="PT Doc",PT014:Canal Historia
+http://f7.ppiao.club:8880/ygtest24/FRES6688/3236
+#EXTINF:-1 tvg-id="discovery.pt" tvg-name="PT020:Discovery Channel" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT020DiscoveryChannel.png" group-title="PT Doc",PT020:Discovery Channel
+http://f7.ppiao.club:8880/ygtest24/FRES6688/3230
+#EXTINF:-1 tvg-id="discovery.hd.showcase.se" tvg-name="PT021:Discovery Showcase" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT021DiscoveryShowcase.png" group-title="PT Doc",PT021:Discovery Showcase
+http://f7.ppiao.club:8880/ygtest24/FRES6688/3229
+#EXTINF:-1 tvg-id="historia.pt" tvg-name="PT035:Historia" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT035Historia.png" group-title="PT Doc",PT035:Historia
+http://f7.ppiao.club:8880/ygtest24/FRES6688/3215
+#EXTINF:-1 tvg-id="national.geographic.wild.pt" tvg-name="PT044:NAT GEO Wild" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT044NATGEOWild.png" group-title="PT Doc",PT044:NAT GEO Wild
+http://f7.ppiao.club:8880/ygtest24/FRES6688/3206
+#EXTINF:-1 tvg-id="national.geographic.pt" tvg-name="PT045:NAT GEO" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT045NATGEO.png" group-title="PT Doc",PT045:NAT GEO
+http://f7.ppiao.club:8880/ygtest24/FRES6688/3205
+#EXTINF:-1 tvg-id="odisseia.pt" tvg-name="PT047:Odisseia" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT047Odisseia.png" group-title="PT Doc",PT047:Odisseia
+http://f7.ppiao.club:8880/ygtest24/FRES6688/3203
+#EXTINF:-1 tvg-id="national.geographic.pt" tvg-name="PT090:NATIONAL GEOGRAPHIC" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT090NATIONALGEOGRAPHIC.png" group-title="PT Doc",PT090:NATIONAL GEOGRAPHIC
+http://f7.ppiao.club:8880/ygtest24/FRES6688/29400
+#EXTINF:-1 tvg-id="cmtv.pt" tvg-name="PT113:CMTV FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT113CMTVFHD.png" group-title="PT Doc",PT113:CMTV FHD
+http://f7.ppiao.club:8880/ygtest24/FRES6688/29377
+#EXTINF:-1 tvg-id="crime+.investigation.pt" tvg-name="PT116:Crime & Investigation" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT116CrimeInvestigation.png" group-title="PT Doc",PT116:Crime & Investigation
+http://f7.ppiao.club:8880/ygtest24/FRES6688/29374
+#EXTINF:-1 tvg-id="discovery.pt" tvg-name="PT117:DISCOVERY CHANNEL" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT117DISCOVERY CHANNEL.png" group-title="PT Doc",PT117:DISCOVERY CHANNEL
+http://f7.ppiao.club:8880/ygtest24/FRES6688/29373
+#EXTINF:-1 tvg-id="eleven.sports.6.pt" tvg-name="PT123:INVESTIGATION DISCOVERY" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT123CHELSEATV.png" group-title="PT Doc",PT123:INVESTIGATION DISCOVERY
+http://f7.ppiao.club:8880/ygtest24/FRES6688/29367
