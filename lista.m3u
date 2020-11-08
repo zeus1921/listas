@@ -1,120 +1,862 @@
-#EXTINF:-1 tvg-id="fuel.pt" tvg-name="STREAM DO PC" tvg-logo="https://i.imgur.com/bYRE1Vc.png" group-title="PT General",111streamdopc
-http://192.168.1.10:8080
-#EXTINF:-1 tvg-id="euronews.pt" tvg-name="PT027:Euro Sport News" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT027EuroSportNews.png" group-title="PT General",PT027:Euro Sport News
-http://f7.ppiao.club:8880/ygtest24/FRES6688/3223
-#EXTINF:-1 tvg-id="fox.life.pt" tvg-name="PT031:Fox Life" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT031FoxLife.png" group-title="PT General",PT031:Fox Life
-http://f7.ppiao.club:8880/ygtest24/FRES6688/3219
-#EXTINF:-1 tvg-id="fuel.pt" tvg-name="PT033:Fuel TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT033FuelTV.png" group-title="PT General",PT033:Fuel TV
-http://f7.ppiao.club:8880/ygtest24/FRES6688/3217
-#EXTINF:-1 tvg-id="globo.pt" tvg-name="PT034:Globo" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT034Globo.png" group-title="PT General",PT034:Globo
-http://f7.ppiao.club:8880/ygtest24/FRES6688/3216
-#EXTINF:-1 tvg-id="mtv.portugal.pt" tvg-name="PT043:MTV Portuga" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT043MTVPortuga.png" group-title="PT General",PT043:MTV Portuga
-http://f7.ppiao.club:8880/ygtest24/FRES6688/3207
-#EXTINF:-1 tvg-id="pfc.pt" tvg-name="PT049:PFC" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT049PFC.png" group-title="PT General",PT049:PFC
-http://f7.ppiao.club:8880/ygtest24/FRES6688/3201
-#EXTINF:-1 tvg-id="Porto.pt" tvg-name="PT050:Porto Canal" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT050PortoCanal.png" group-title="PT General",PT050:Porto Canal
-http://f7.ppiao.club:8880/ygtest24/FRES6688/3200
-#EXTINF:-1 tvg-id="rtp.1.pt" tvg-name="PT051:RTP 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT051RTP1.png" group-title="PT General",PT051:RTP 1
-http://f7.ppiao.club:8880/ygtest24/FRES6688/3199
-#EXTINF:-1 tvg-id="rtp.2.pt" tvg-name="PT052:RTP 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT052RTP2.png" group-title="PT General",PT052:RTP 2
-http://f7.ppiao.club:8880/ygtest24/FRES6688/3198
-#EXTINF:-1 tvg-id="rtp.3.pt" tvg-name="PT053:RTP 3" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT053RTP3.png" group-title="PT General",PT053:RTP 3
-http://f7.ppiao.club:8880/ygtest24/FRES6688/3197
-#EXTINF:-1 tvg-id="sic.pt" tvg-name="PT054:Sic" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT054Sic.png" group-title="PT General",PT054:Sic
-http://f7.ppiao.club:8880/ygtest24/FRES6688/3196
-#EXTINF:-1 tvg-id="sic.mulher.pt" tvg-name="PT055:SIC Mulher" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT055SICMulher.png" group-title="PT General",PT055:SIC Mulher
-http://f7.ppiao.club:8880/ygtest24/FRES6688/3195
-#EXTINF:-1 tvg-id="sic.noticias.pt" tvg-name="PT056:SIC Noticias" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT056SICNoticias.png" group-title="PT General",PT056:SIC Noticias
-http://f7.ppiao.club:8880/ygtest24/FRES6688/3194
-#EXTINF:-1 tvg-id="sic.radical.pt" tvg-name="PT057:SIC Radical" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT057SICRadical.png" group-title="PT General",PT057:SIC Radical
-http://f7.ppiao.club:8880/ygtest24/FRES6688/3193
-#EXTINF:-1 tvg-id="syfy.pt" tvg-name="PT065:SYFY" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT065SYFY.png" group-title="PT General",PT065:SYFY
-http://f7.ppiao.club:8880/ygtest24/FRES6688/3185
-#EXTINF:-1 tvg-id="tlc.pt" tvg-name="PT066:TLC" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT066TLC.png" group-title="PT General",PT066:TLC
-http://f7.ppiao.club:8880/ygtest24/FRES6688/3184
-#EXTINF:-1 tvg-id="travel.pt" tvg-name="PT068:Travel Channel" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT068TravelChannel.png" group-title="PT General",PT068:Travel Channel
-http://f7.ppiao.club:8880/ygtest24/FRES6688/3182
-#EXTINF:-1 tvg-id="tv.galicia.pt" tvg-name="PT073:TV Galicia" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT073TVGalicia.png" group-title="PT General",PT073:TV Galicia
-http://f7.ppiao.club:8880/ygtest24/FRES6688/3177
-#EXTINF:-1 tvg-id="record.pt" tvg-name="PT075:TV Record" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT075TVRecord.png" group-title="PT General",PT075:TV Record
-http://f7.ppiao.club:8880/ygtest24/FRES6688/3175
-#EXTINF:-1 tvg-id="tvi.pt" tvg-name="PT077:TVI" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT077TVI.png" group-title="PT General",PT077:TVI
-http://f7.ppiao.club:8880/ygtest24/FRES6688/3173
-#EXTINF:-1 tvg-id="" tvg-name="PT152:TV FATIMA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT152TV FATIMA.png" group-title="PT General",PT152:TV FATIMA
-http://f7.ppiao.club:8880/ygtest24/FRES6688/29338
-#EXTINF:-1 tvg-id="" tvg-name="PT:-----|SPORTS|--------------------------------------" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT-----|SPORTS|--------------------------------------.png" group-title="Poland",PT:-----|SPORTS|--------------------------------------
-http://f7.ppiao.club:8880/ygtest24/FRES6688/60650
-#EXTINF:-1 tvg-id="a.bola.pt" tvg-name="PT002:A Bola TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT002ABolaTV.png" group-title="PT Sports",PT002:A Bola TV
-http://f7.ppiao.club:8880/ygtest24/FRES6688/3248
-#EXTINF:-1 tvg-id="+.globosat.br" tvg-name="PT011:Benfica TV 1 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT011BenficaTV1.png" group-title="PT Sports",PT011:Benfica TV 1 FHD
-http://f7.ppiao.club:8880/ygtest24/FRES6688/3239
-#EXTINF:-1 tvg-id="+.globosat.br" tvg-name="PT012:Benfica TV 1 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT012BenficaTV2.png" group-title="PT Sports",PT012:Benfica TV 1 HD
-http://f7.ppiao.club:8880/ygtest24/FRES6688/3238
-#EXTINF:-1 tvg-id="btv.pt" tvg-name="PT013:Benfica TV 1 SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT013BenficaTV.png" group-title="PT Sports",PT013:Benfica TV 1 SD
-http://f7.ppiao.club:8880/ygtest24/FRES6688/3237
-#EXTINF:-1 tvg-id="eurosport.1.pt" tvg-name="PT025:Euro Sport 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT025EuroSport1.png" group-title="PT Sports",PT025:Euro Sport 1
-http://f7.ppiao.club:8880/ygtest24/FRES6688/3225
-#EXTINF:-1 tvg-id="eurosport.2.pt" tvg-name="PT026:Euro Sport 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT026EuroSport2.png" group-title="PT Sports",PT026:Euro Sport 2
-http://f7.ppiao.club:8880/ygtest24/FRES6688/3224
-#EXTINF:-1 tvg-id="motors.es" tvg-name="PT040:Motors TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT040MotorsTV.png" group-title="PT Sports",PT040:Motors TV
-http://f7.ppiao.club:8880/ygtest24/FRES6688/3210
-#EXTINF:-1 tvg-id="" tvg-name="PT041:Motor Vision" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT041MotorVision.png" group-title="PT Sports",PT041:Motor Vision
-http://f7.ppiao.club:8880/ygtest24/FRES6688/3209
-#EXTINF:-1 tvg-id="kombat.sport.pt" tvg-name="PT042:Kombat Sports" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT042KombatSports.png" group-title="PT Sports",PT042:Kombat Sports
-http://f7.ppiao.club:8880/ygtest24/FRES6688/3208
-#EXTINF:-1 tvg-id="sport.tv1.pt" tvg-name="PT058:Sport TV 1 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT058SportTV1.png" group-title="PT Sports",PT058:Sport TV 1 HD
-http://f7.ppiao.club:8880/ygtest24/FRES6688/3192
-#EXTINF:-1 tvg-id="sport.tv2.pt" tvg-name="PT059:Sport TV 2 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT059SportTV2.png" group-title="PT Sports",PT059:Sport TV 2 HD
-http://f7.ppiao.club:8880/ygtest24/FRES6688/3191
-#EXTINF:-1 tvg-id="sport.tv3.pt" tvg-name="PT060:Sport TV 3 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT060SportTV3.png" group-title="PT Sports",PT060:Sport TV 3 HD
-http://f7.ppiao.club:8880/ygtest24/FRES6688/3190
-#EXTINF:-1 tvg-id="sport.tv4.pt" tvg-name="PT061:Sport TV 4 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT061SportTV4.png" group-title="PT Sports",PT061:Sport TV 4 HD
-http://f7.ppiao.club:8880/ygtest24/FRES6688/3189
-#EXTINF:-1 tvg-id="sport.tv5.pt" tvg-name="PT062:Sport TV 5 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT062SportTV5.png" group-title="PT Sports",PT062:Sport TV 5 HD
-http://f7.ppiao.club:8880/ygtest24/FRES6688/3188
-#EXTINF:-1 tvg-id="sport.tv.4k.uhd.pt" tvg-name="PT063:SPORT TV+" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT063SportTV.png" group-title="PT Sports",PT063:SPORT TV+
-http://f7.ppiao.club:8880/ygtest24/FRES6688/3187
-#EXTINF:-1 tvg-id="sporting.pt" tvg-name="PT064:Sporting TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT064SportingTV.png" group-title="PT Sports",PT064:Sporting TV
-http://f7.ppiao.club:8880/ygtest24/FRES6688/3186
-#EXTINF:-1 tvg-id="toros.pt" tvg-name="PT067:Toros TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT067TorosTV.png" group-title="PT Sports",PT067:Toros TV
-http://f7.ppiao.club:8880/ygtest24/FRES6688/3183
-#EXTINF:-1 tvg-id="" tvg-name="PT093:EUROSPORT" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT093EUROSPORT.png" group-title="PT Sports",PT093:EUROSPORT
-http://f7.ppiao.club:8880/ygtest24/FRES6688/29397
-#EXTINF:-1 tvg-id="rtp.madeira.pt" tvg-name="PT098:SPORT TV 1 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT098SPORTTV1FHD.png" group-title="PT Sports",PT098:SPORT TV 1 FHD
-http://f7.ppiao.club:8880/ygtest24/FRES6688/29392
-#EXTINF:-1 tvg-id="" tvg-name="PT099:SPORT TV 2 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT099SPORTTV2FHD.png" group-title="PT Sports",PT099:SPORT TV 2 FHD
-http://f7.ppiao.club:8880/ygtest24/FRES6688/29391
-#EXTINF:-1 tvg-id="sport.tv3.pt" tvg-name="PT100:SPORT TV 3 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT100SPORTTV3FHD.png" group-title="PT Sports",PT100:SPORT TV 3 FHD
-http://f7.ppiao.club:8880/ygtest24/FRES6688/29390
-#EXTINF:-1 tvg-id="tpa.internacional.pt" tvg-name="PT101:SPORT TV 4 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT101SPORTTV4FHD.png" group-title="PT Sports",PT101:SPORT TV 4 FHD
-http://f7.ppiao.club:8880/ygtest24/FRES6688/29389
-#EXTINF:-1 tvg-id="dogtv.pt" tvg-name="PT102:SPORT TV 1 SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT102SPORTTV1SD.png" group-title="PT Sports",PT102:SPORT TV 1 SD
-http://f7.ppiao.club:8880/ygtest24/FRES6688/29388
-#EXTINF:-1 tvg-id="cacavision.pt" tvg-name="PT103:SPORT TV 2 SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT103SPORTTV2SD.png" group-title="PT Sports",PT103:SPORT TV 2 SD
-http://f7.ppiao.club:8880/ygtest24/FRES6688/29387
-#EXTINF:-1 tvg-id="euronews.pt" tvg-name="PT104:SPORT TV 3 SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT104SPORTTV3SD.png" group-title="PT Sports",PT104:SPORT TV 3 SD
-http://f7.ppiao.club:8880/ygtest24/FRES6688/29386
-#EXTINF:-1 tvg-id="rtp.acores.pt" tvg-name="PT105:SPORT TV 4 SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT105SPORTTV4SD.png" group-title="PT Sports",PT105:SPORT TV 4 SD
-http://f7.ppiao.club:8880/ygtest24/FRES6688/29385
-#EXTINF:-1 tvg-id="canal.11.pt" tvg-name="PT112:Canal 11" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT112Canal11.png" group-title="PT Sports",PT112:Canal 11
-http://f7.ppiao.club:8880/ygtest24/FRES6688/29378
-#EXTINF:-1 tvg-id="cancao.nova.pt" tvg-name="PT114:Cancao Nova" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT114Cancao Nova.png" group-title="PT Sports",PT114:Cancao Nova
-http://f7.ppiao.club:8880/ygtest24/FRES6688/29376
-#EXTINF:-1 tvg-id="eleven.sports.1.pt" tvg-name="PT119:ELEVEN SPORTS 1 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT119ELEVENSPORTS1FHD.png" group-title="PT Sports",PT119:ELEVEN SPORTS 1 FHD
-http://f7.ppiao.club:8880/ygtest24/FRES6688/29371
-#EXTINF:-1 tvg-id="eleven.sports.2.pt" tvg-name="PT120:ELEVEN SPORTS 2 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT120ELEVENSPORTS2FHD.png" group-title="PT Sports",PT120:ELEVEN SPORTS 2 FHD
-http://f7.ppiao.club:8880/ygtest24/FRES6688/29370
-#EXTINF:-1 tvg-id="eleven.sports.3.pt" tvg-name="PT121:ELEVEN SPORTS 3 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT121ELEVENSPORTS3FHD.png" group-title="PT Sports",PT121:ELEVEN SPORTS 3 FHD
-http://f7.ppiao.club:8880/ygtest24/FRES6688/29369
-#EXTINF:-1 tvg-id="eleven.sports.4.pt" tvg-name="PT122:ELEVEN SPORTS 4 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT122ELEVENSPORTS4FHD.png" group-title="PT Sports",PT122:ELEVEN SPORTS 4 FHD
-http://f7.ppiao.club:8880/ygtest24/FRES6688/29368
-#EXTINF:-1 tvg-id="" tvg-name="PT124:Sport TV NBA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT124Sport TV NBA.png" group-title="PT Sports",PT124:Sport TV NBA
-http://f7.ppiao.club:8880/ygtest24/FRES6688/29366
-#EXTINF:-1 tvg-id="nba.pt" tvg-name="PT141:NBA FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT141NBAFHD.png" group-title="PT Sports",PT141:NBA FHD
-http://f7.ppiao.club:8880/ygtest24/FRES6688/29349
-#EXTINF:-1 tvg-id="canal.11.pt" tvg-name="PT146:TCV CABO VERDE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT146CANAL 11.png" group-title="PT Sports",PT146:TCV CABO VERDE
-http://f7.ppiao.club:8880/ygtest24/FRES6688/29344
-#EXTINF:-1 tvg-id="eleven.sports.5.pt" tvg-name="PT156:Eleven Sports 5" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT156Eleven Sports 5.png" group-title="PT Sports",PT156:Eleven Sports 5
-http://f7.ppiao.club:8880/ygtest24/FRES6688/29334
-#EXTINF:-1 tvg-id="" tvg-name="PT159:Eleven Sports 6 FHD" tvg-logo="" group-title="PT Sports",PT159:Eleven Sports 6 FHD
-http://f7.ppiao.club:8880/ygtest24/FRES6688/49032
+#EXTINF:-1 tvg-ID="" tvg-name="PT: RTP" tvg-logo="http://pro.waldi2017.com/logo/portugual/rtp_1_pt.png" group-title="PORTUGAL",PT: RTP
+http://pro.bilix.ma:2082/live/110048490145344/71615111/23586.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PT: RTP 1 HD" tvg-logo="http://pro.waldi2017.com/logo/portugual/rtp_1_pt.png" group-title="PORTUGAL",PT: RTP 1 HD
+http://pro.bilix.ma:2082/live/110048490145344/71615111/23516.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PT: RTP 2 HD" tvg-logo="" group-title="PORTUGAL",PT: RTP 2 HD
+http://pro.bilix.ma:2082/live/110048490145344/71615111/23517.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PT:RTP 3 HD" tvg-logo="http://pro.waldi2017.com/logo/portugual/rtp_3_pt.png" group-title="PORTUGAL",PT:RTP 3 HD
+http://pro.bilix.ma:2082/live/110048490145344/71615111/23518.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PT: Tvi sd" tvg-logo="http://pro.waldi2017.com/logo/Alphabetic/tvi_pt.png" group-title="PORTUGAL",PT: Tvi sd
+http://pro.bilix.ma:2082/live/110048490145344/71615111/73611.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PT: TVI FHD" tvg-logo="http://pro.waldi2017.com/logo/Alphabetic/tvi_pt.png" group-title="PORTUGAL",PT: TVI FHD
+http://pro.bilix.ma:2082/live/110048490145344/71615111/23579.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PT: SIC Noticias" tvg-logo="http://pro.waldi2017.com/logo/Alphabetic/sic_pt_noticias.png" group-title="PORTUGAL",PT: SIC Noticias
+http://pro.bilix.ma:2082/live/110048490145344/71615111/23483.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PT: tvi 24" tvg-logo="http://pro.waldi2017.com/logo/portugual/tvi_pt_24.png" group-title="PORTUGAL",PT: tvi 24
+http://pro.bilix.ma:2082/live/110048490145344/71615111/23571.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PT: CMTV" tvg-logo="http://pro.waldi2017.com/logo/portugual/cm_tv_pt.png" group-title="PORTUGAL",PT: CMTV
+http://pro.bilix.ma:2082/live/110048490145344/71615111/23497.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PT: GLOBO FHD" tvg-logo="http://pro.waldi2017.com/logo/portugual/tv_globo_pt.png" group-title="PORTUGAL",PT: GLOBO FHD
+http://pro.bilix.ma:2082/live/110048490145344/71615111/23560.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PT: TVI Reality" tvg-logo="http://pro.waldi2017.com/logo/portugual/tvi_pt_reality.png" group-title="PORTUGAL",PT: TVI Reality
+http://pro.bilix.ma:2082/live/110048490145344/71615111/23566.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PT: SIC Mulher" tvg-logo="http://pro.waldi2017.com/logo/portugual/sic_pt_mulher.png" group-title="PORTUGAL",PT: SIC Mulher
+http://pro.bilix.ma:2082/live/110048490145344/71615111/25889.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PT: SIC Caras HD" tvg-logo="http://pro.waldi2017.com/logo/Alphabetic/sic_pt_caras.png" group-title="PORTUGAL",PT: SIC Caras HD
+http://pro.bilix.ma:2082/live/110048490145344/71615111/23482.m3u8
+#EXTINF:-1 tvg-ID="sicr.pt" tvg-name="PT: SIC Radical HD" tvg-logo="http://pro.waldi2017.com/logo/Alphabetic/sic_pt_radical.png" group-title="PORTUGAL",PT: SIC Radical HD
+http://pro.bilix.ma:2082/live/110048490145344/71615111/23484.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PT: RTP Memoria" tvg-logo="http://pro.waldi2017.com/logo/Alphabetic/rtp_memoria.png" group-title="PORTUGAL",PT: RTP Memoria
+http://pro.bilix.ma:2082/live/110048490145344/71615111/23481.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PT: RTP Madeira" tvg-logo="http://pro.waldi2017.com/logo/Alphabetic/rtp_madeira.png" group-title="PORTUGAL",PT: RTP Madeira
+http://pro.bilix.ma:2082/live/110048490145344/71615111/73541.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PT: Porto canal" tvg-logo="" group-title="PORTUGAL",PT: Porto canal
+http://pro.bilix.ma:2082/live/110048490145344/71615111/23578.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PT: SIC " tvg-logo="http://pro.waldi2017.com/logo/portugual/sic_pt.png" group-title="PORTUGAL",PT: SIC 
+http://pro.bilix.ma:2082/live/110048490145344/71615111/23580.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PT: TLC" tvg-logo="http://pro.waldi2017.com/logo/Alphabetic/tlc_br.png" group-title="PORTUGAL",PT: TLC
+http://pro.bilix.ma:2082/live/110048490145344/71615111/71901.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PT: Enterternement" tvg-logo="" group-title="PORTUGAL",PT: Enterternement
+http://pro.bilix.ma:2082/live/110048490145344/71615111/25892.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PT: MTV PORTUGAL HD" tvg-logo="" group-title="PORTUGAL",PT: MTV PORTUGAL HD
+http://pro.bilix.ma:2082/live/110048490145344/71615111/23542.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PT: Globo now" tvg-logo="" group-title="PORTUGAL",PT: Globo now
+http://pro.bilix.ma:2082/live/110048490145344/71615111/23499.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PT:TVI FICCAO" tvg-logo="http://pro.waldi2017.com/logo/portugual/tvi_pt_ficcao.png" group-title="PORTUGAL",PT:TVI FICCAO
+http://pro.bilix.ma:2082/live/110048490145344/71615111/23507.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PT: NOS STUDIOS FHD" tvg-logo="" group-title="PORTUGAL",PT: NOS STUDIOS FHD
+http://pro.bilix.ma:2082/live/110048490145344/71615111/23545.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PT:24 KITCHEN" tvg-logo="" group-title="PORTUGAL",PT:24 KITCHEN
+http://pro.bilix.ma:2082/live/110048490145344/71615111/23498.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PT: CANAL 11 FHD" tvg-logo="http://pro.waldi2017.com/logo/portugual/canal_um_europa.png" group-title="PORTUGAL",PT: CANAL 11 FHD
+http://pro.bilix.ma:2082/live/110048490145344/71615111/23556.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PT: Sport  TV +" tvg-logo="http://pro.waldi2017.com/logo/Alphabetic/sport_tv_pt.png" group-title="PORTUGAL",PT: Sport  TV +
+http://pro.bilix.ma:2082/live/110048490145344/71615111/73542.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PT: Spt 1 HD" tvg-logo="http://pro.waldi2017.com/logo/Alphabetic/sport_tv_pt_1.png" group-title="PORTUGAL",PT: Spt 1 HD
+http://pro.bilix.ma:2082/live/110048490145344/71615111/23485.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PT: Sport TV 2 HD" tvg-logo="http://pro.waldi2017.com/logo/Alphabetic/sport_tv_pt_2.png" group-title="PORTUGAL",PT: Sport TV 2 HD
+http://pro.bilix.ma:2082/live/110048490145344/71615111/23487.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PT: Sport TV 3 HD" tvg-logo="http://pro.waldi2017.com/logo/portugual/sport_tv_pt_3.png" group-title="PORTUGAL",PT: Sport TV 3 HD
+http://pro.bilix.ma:2082/live/110048490145344/71615111/42379.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PT: SPORT TV 4 HD" tvg-logo="http://pro.waldi2017.com/logo/portugual/sport_tv_pt_4.png" group-title="PORTUGAL",PT: SPORT TV 4 HD
+http://pro.bilix.ma:2082/live/110048490145344/71615111/23524.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PT: SPORT TV  5 HD" tvg-logo="http://pro.waldi2017.com/logo/portugual/sport_tv_pt.png" group-title="PORTUGAL",PT: SPORT TV  5 HD
+http://pro.bilix.ma:2082/live/110048490145344/71615111/23522.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PT: BenficaTV  HD" tvg-logo="http://pro.waldi2017.com/logo/Alphabetic/btv_bg.png" group-title="PORTUGAL",PT: BenficaTV  HD
+http://pro.bilix.ma:2082/live/110048490145344/71615111/23547.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PT: Sporting TV" tvg-logo="http://pro.waldi2017.com/logo/Alphabetic/sporting_tv_pt.png" group-title="PORTUGAL",PT: Sporting TV
+http://pro.bilix.ma:2082/live/110048490145344/71615111/23488.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PT: SPORT TV NBA " tvg-logo="" group-title="PORTUGAL",PT: SPORT TV NBA 
+http://pro.bilix.ma:2082/live/110048490145344/71615111/23550.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PT: FUEL TV" tvg-logo="" group-title="PORTUGAL",PT: FUEL TV
+http://pro.bilix.ma:2082/live/110048490145344/71615111/23563.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PT: Eleven Sports 1 HD" tvg-logo="http://pro.waldi2017.com/logo/Alphabetic/eleven-sports-1-uk-be.png" group-title="PORTUGAL",PT: Eleven Sports 1 HD
+http://pro.bilix.ma:2082/live/110048490145344/71615111/23538.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PT: Eleven Sports 2 HD" tvg-logo="http://pro.waldi2017.com/logo/Alphabetic/eleven-sports-2-uk-be.png" group-title="PORTUGAL",PT: Eleven Sports 2 HD
+http://pro.bilix.ma:2082/live/110048490145344/71615111/23540.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PT: Eleven Sports 3 HD" tvg-logo="http://pro.waldi2017.com/logo/Alphabetic/eleven-sports3-polska-uk-pl.png" group-title="PORTUGAL",PT: Eleven Sports 3 HD
+http://pro.bilix.ma:2082/live/110048490145344/71615111/23535.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PT: Eleven Sports 4 HD" tvg-logo="" group-title="PORTUGAL",PT: Eleven Sports 4 HD
+http://pro.bilix.ma:2082/live/110048490145344/71615111/23533.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PT: Eleven Sports 5 HD" tvg-logo="" group-title="PORTUGAL",PT: Eleven Sports 5 HD
+http://pro.bilix.ma:2082/live/110048490145344/71615111/23530.m3u8
+#EXTINF:-1 tvg-ID="PE: ELEVEN SPORTS 6" tvg-name="PT: ELEVEN SPORTS 6  HD" tvg-logo="http://pro.waldi2017.com/logo/Alphabetic/eleven_sports_network.png" group-title="PORTUGAL",PT: ELEVEN SPORTS 6  HD
+http://pro.bilix.ma:2082/live/110048490145344/71615111/23532.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PT: EUROSPORT 1 HD" tvg-logo="" group-title="PORTUGAL",PT: EUROSPORT 1 HD
+http://pro.bilix.ma:2082/live/110048490145344/71615111/23549.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PT: Eurosport 2hd" tvg-logo="" group-title="PORTUGAL",PT: Eurosport 2hd
+http://pro.bilix.ma:2082/live/110048490145344/71615111/23584.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PT: MOTORVISION HD" tvg-logo="" group-title="PORTUGAL",PT: MOTORVISION HD
+http://pro.bilix.ma:2082/live/110048490145344/71615111/23546.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PT: Toros TV" tvg-logo="http://pro.waldi2017.com/logo/Alphabetic/toros_tv_pt.png" group-title="PORTUGAL",PT: Toros TV
+http://pro.bilix.ma:2082/live/110048490145344/71615111/23489.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PT: Kombat Sport" tvg-logo="http://pro.waldi2017.com/logo/Alphabetic/kombat_sport.png" group-title="PORTUGAL",PT: Kombat Sport
+http://pro.bilix.ma:2082/live/110048490145344/71615111/23479.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PT: Blaze" tvg-logo="" group-title="PORTUGAL",PT: Blaze
+http://pro.bilix.ma:2082/live/110048490145344/71615111/23472.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PT: NAT Geo " tvg-logo="" group-title="PORTUGAL",PT: NAT Geo 
+http://pro.bilix.ma:2082/live/110048490145344/71615111/23513.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PT: Nat Geo Wild" tvg-logo="" group-title="PORTUGAL",PT: Nat Geo Wild
+http://pro.bilix.ma:2082/live/110048490145344/71615111/25891.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PT: CRIME+ INVESTIGATION " tvg-logo="" group-title="PORTUGAL",PT: CRIME+ INVESTIGATION 
+http://pro.bilix.ma:2082/live/110048490145344/71615111/23573.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PT: DISCOVERY INVESTIGATION FHD" tvg-logo="http://pro.waldi2017.com/logo/portugual/crime_investigation_us.png" group-title="PORTUGAL",PT: DISCOVERY INVESTIGATION FHD
+http://pro.bilix.ma:2082/live/110048490145344/71615111/23564.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PT: CASA E COSINHA" tvg-logo="" group-title="PORTUGAL",PT: CASA E COSINHA
+http://pro.bilix.ma:2082/live/110048490145344/71615111/23565.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PT: Odissea" tvg-logo="http://pro.waldi2017.com/logo/Alphabetic/odisseia_pt.png" group-title="PORTUGAL",PT: Odissea
+http://pro.bilix.ma:2082/live/110048490145344/71615111/73528.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PT: CANAL HISTORIA" tvg-logo="http://pro.waldi2017.com/logo/portugual/historia_pt.png" group-title="PORTUGAL",PT: CANAL HISTORIA
+http://pro.bilix.ma:2082/live/110048490145344/71615111/23504.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PT: Travel Channel HD" tvg-logo="" group-title="PORTUGAL",PT: Travel Channel HD
+http://pro.bilix.ma:2082/live/110048490145344/71615111/23490.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PT: Discovery Channel" tvg-logo="http://pro.waldi2017.com/logo/Alphabetic/discovery_global_us.png" group-title="PORTUGAL",PT: Discovery Channel
+http://pro.bilix.ma:2082/live/110048490145344/71615111/23473.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PT: Casa E pesca" tvg-logo="" group-title="PORTUGAL",PT: Casa E pesca
+http://pro.bilix.ma:2082/live/110048490145344/71615111/23503.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PT:BABY TV" tvg-logo="http://pro.waldi2017.com/logo/Alphabetic/baby_tv_eu.png" group-title="PORTUGAL",PT:BABY TV
+http://pro.bilix.ma:2082/live/110048490145344/71615111/23502.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PT: CARTOON NETWORK" tvg-logo="" group-title="PORTUGAL",PT: CARTOON NETWORK
+http://pro.bilix.ma:2082/live/110048490145344/71615111/23496.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PT: DISNEY JUNIOR" tvg-logo="" group-title="PORTUGAL",PT: DISNEY JUNIOR
+http://pro.bilix.ma:2082/live/110048490145344/71615111/23506.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PT: Nickelodeon" tvg-logo="" group-title="PORTUGAL",PT: Nickelodeon
+http://pro.bilix.ma:2082/live/110048490145344/71615111/23558.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PT: Nick junior" tvg-logo="http://pro.waldi2017.com/logo/Alphabetic/nickelodeon_junior_fr.png" group-title="PORTUGAL",PT: Nick junior
+http://pro.bilix.ma:2082/live/110048490145344/71615111/73531.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PT:Panda" tvg-logo="" group-title="PORTUGAL",PT:Panda
+http://pro.bilix.ma:2082/live/110048490145344/71615111/23514.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PT:PANDA BIGGS" tvg-logo="" group-title="PORTUGAL",PT:PANDA BIGGS
+http://pro.bilix.ma:2082/live/110048490145344/71615111/23515.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PT: SIC K" tvg-logo="" group-title="PORTUGAL",PT: SIC K
+http://pro.bilix.ma:2082/live/110048490145344/71615111/23520.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PT: Sic kids" tvg-logo="" group-title="PORTUGAL",PT: Sic kids
+http://pro.bilix.ma:2082/live/110048490145344/71615111/23568.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PT: Jim Jam" tvg-logo="http://pro.waldi2017.com/logo/Alphabetic/jim_jam_global.png" group-title="PORTUGAL",PT: Jim Jam
+http://pro.bilix.ma:2082/live/110048490145344/71615111/23478.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PT: TV cine 1 top" tvg-logo="http://pro.waldi2017.com/logo/portugual/tvc1.png" group-title="PORTUGAL",PT: TV cine 1 top
+http://pro.bilix.ma:2082/live/110048490145344/71615111/23510.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PT: TV cine 2 Edition" tvg-logo="" group-title="PORTUGAL",PT: TV cine 2 Edition
+http://pro.bilix.ma:2082/live/110048490145344/71615111/23509.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PT:  Tv cine 3 Emotion" tvg-logo="" group-title="PORTUGAL",PT:  Tv cine 3 Emotion
+http://pro.bilix.ma:2082/live/110048490145344/71615111/23495.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PT: TV cine 4 action" tvg-logo="http://pro.waldi2017.com/logo/portugual/tvc4.png" group-title="PORTUGAL",PT: TV cine 4 action
+http://pro.bilix.ma:2082/live/110048490145344/71615111/23508.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PT:TVC 1" tvg-logo="" group-title="PORTUGAL",PT:TVC 1
+http://pro.bilix.ma:2082/live/110048490145344/71615111/23511.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PT: AXN movies" tvg-logo="http://pro.waldi2017.com/logo/portugual/axn_global.png" group-title="PORTUGAL",PT: AXN movies
+http://pro.bilix.ma:2082/live/110048490145344/71615111/23570.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PT: AXN HD" tvg-logo="" group-title="PORTUGAL",PT: AXN HD
+http://pro.bilix.ma:2082/live/110048490145344/71615111/23501.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PT: AMC" tvg-logo="http://pro.waldi2017.com/logo/Alphabetic/amc_us.png" group-title="PORTUGAL",PT: AMC
+http://pro.bilix.ma:2082/live/110048490145344/71615111/23471.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PT: AXN white " tvg-logo="http://pro.waldi2017.com/logo/portugual/axn_white_pt.png" group-title="PORTUGAL",PT: AXN white 
+http://pro.bilix.ma:2082/live/110048490145344/71615111/23572.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PT: Hollywood" tvg-logo="http://pro.waldi2017.com/logo/Alphabetic/canal_hollywood_pt.png" group-title="PORTUGAL",PT: Hollywood
+http://pro.bilix.ma:2082/live/110048490145344/71615111/23477.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PT:  Fox Hd" tvg-logo="http://pro.waldi2017.com/logo/portugual/fox_movies_us.png" group-title="PORTUGAL",PT:  Fox Hd
+http://pro.bilix.ma:2082/live/110048490145344/71615111/23494.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PT:  FOX Crime " tvg-logo="http://pro.waldi2017.com/logo/portugual/fox_crime_global.png" group-title="PORTUGAL",PT:  FOX Crime 
+http://pro.bilix.ma:2082/live/110048490145344/71615111/23493.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PT: FOX Comedy" tvg-logo="http://pro.waldi2017.com/logo/Alphabetic/fox_comedy_pl.png" group-title="PORTUGAL",PT: FOX Comedy
+http://pro.bilix.ma:2082/live/110048490145344/71615111/23475.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PT: FOX LIFE HD" tvg-logo="http://pro.waldi2017.com/logo/Alphabetic/fox_life_global.png" group-title="PORTUGAL",PT: FOX LIFE HD
+http://pro.bilix.ma:2082/live/110048490145344/71615111/23569.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PT: FOX movies" tvg-logo="http://pro.waldi2017.com/logo/portugual/fox_movies_us.png" group-title="PORTUGAL",PT: FOX movies
+http://pro.bilix.ma:2082/live/110048490145344/71615111/23575.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PT: SYFY " tvg-logo="" group-title="PORTUGAL",PT: SYFY 
+http://pro.bilix.ma:2082/live/110048490145344/71615111/23567.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PT: CINEMUNDO FHD" tvg-logo="" group-title="PORTUGAL",PT: CINEMUNDO FHD
+http://pro.bilix.ma:2082/live/110048490145344/71615111/23574.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PT: A Bola tv" tvg-logo="http://pro.waldi2017.com/logo/portugual/a_bola_tv_pt.png" group-title="PORTUGAL",PT: A Bola tv
+http://pro.bilix.ma:2082/live/110048490145344/71615111/23583.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PT:AFRO MUSIC" tvg-logo="" group-title="PORTUGAL",PT:AFRO MUSIC
+http://pro.bilix.ma:2082/live/110048490145344/71615111/23500.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PT: FASHION TV" tvg-logo="" group-title="PORTUGAL",PT: FASHION TV
+http://pro.bilix.ma:2082/live/110048490145344/71615111/23562.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PT:GLOBO PREMIUM" tvg-logo="" group-title="PORTUGAL",PT:GLOBO PREMIUM
+http://pro.bilix.ma:2082/live/110048490145344/71615111/23512.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PT: PFC" tvg-logo="http://pro.waldi2017.com/logo/portugual/cm_tv_pt.png" group-title="PORTUGAL",PT: PFC
+http://pro.bilix.ma:2082/live/110048490145344/71615111/25888.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PT: Record TV" tvg-logo="http://pro.waldi2017.com/logo/Alphabetic/rede_record_br.png" group-title="PORTUGAL",PT: Record TV
+http://pro.bilix.ma:2082/live/110048490145344/71615111/23577.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PT: CBS Reality" tvg-logo="" group-title="PORTUGAL",PT: CBS Reality
+http://pro.bilix.ma:2082/live/110048490145344/71615111/23505.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PT: Euro news" tvg-logo="http://pro.waldi2017.com/logo/Alphabetic/euronews_fr.png" group-title="PORTUGAL",PT: Euro news
+http://pro.bilix.ma:2082/live/110048490145344/71615111/23474.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PT: Record news" tvg-logo="http://pro.waldi2017.com/logo/Alphabetic/rede_record_br_news.png" group-title="PORTUGAL",PT: Record news
+http://pro.bilix.ma:2082/live/110048490145344/71615111/23486.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PT: VH1" tvg-logo="" group-title="PORTUGAL",PT: VH1
+http://pro.bilix.ma:2082/live/110048490145344/71615111/23492.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PT: MEZZO LIVE HD" tvg-logo="" group-title="PORTUGAL",PT: MEZZO LIVE HD
+http://pro.bilix.ma:2082/live/110048490145344/71615111/23541.m3u8
+#EXTINF:-1 tvg-ID="6ter.fr" tvg-name="FR: 6TER SD" tvg-logo="" group-title="FRANCE SD",FR: 6TER SD
+http://pro.bilix.ma:2082/live/110048490145344/71615111/31177.m3u8
+#EXTINF:-1 tvg-ID="animaux.fr" tvg-name="FR: ANIMAUX SD" tvg-logo="" group-title="FRANCE SD",FR: ANIMAUX SD
+http://pro.bilix.ma:2082/live/110048490145344/71615111/31202.m3u8
+#EXTINF:-1 tvg-ID="action.fr" tvg-name="FR: Action SD" tvg-logo="" group-title="FRANCE SD",FR: Action SD
+http://pro.bilix.ma:2082/live/110048490145344/71615111/31422.m3u8
+#EXTINF:-1 tvg-ID="bfmtv.fr" tvg-name="FR: BFM TV SD" tvg-logo="" group-title="FRANCE SD",FR: BFM TV SD
+http://pro.bilix.ma:2082/live/110048490145344/71615111/31181.m3u8
+#EXTINF:-1 tvg-ID="canalplus.fr" tvg-name="FR: CANAL+ SD" tvg-logo="" group-title="FRANCE SD",FR: CANAL+ SD
+http://pro.bilix.ma:2082/live/110048490145344/71615111/31182.m3u8
+#EXTINF:-1 tvg-ID="canalpluscinema.fr" tvg-name="FR: CANAL+ CINEMA SD" tvg-logo="" group-title="FRANCE SD",FR: CANAL+ CINEMA SD
+http://pro.bilix.ma:2082/live/110048490145344/71615111/31183.m3u8
+#EXTINF:-1 tvg-ID="canalplusdecale.fr" tvg-name=" FR: Canal+Decale SD" tvg-logo="" group-title="FRANCE SD", FR: Canal+Decale SD
+http://pro.bilix.ma:2082/live/110048490145344/71615111/31954.m3u8
+#EXTINF:-1 tvg-ID="canalplusfamily.fr" tvg-name="FR: Canal+ Family sd" tvg-logo="" group-title="FRANCE SD",FR: Canal+ Family sd
+http://pro.bilix.ma:2082/live/110048490145344/71615111/31187.m3u8
+#EXTINF:-1 tvg-ID="cineplusemotion.fr" tvg-name="FR: CINE EMOTION SD" tvg-logo="" group-title="FRANCE SD",FR: CINE EMOTION SD
+http://pro.bilix.ma:2082/live/110048490145344/71615111/31184.m3u8
+#EXTINF:-1 tvg-ID="cineplusamiz.fr" tvg-name="FR: CINE FAMIZ SD" tvg-logo="" group-title="FRANCE SD",FR: CINE FAMIZ SD
+http://pro.bilix.ma:2082/live/110048490145344/71615111/31185.m3u8
+#EXTINF:-1 tvg-ID="cineplusfrisson.fr" tvg-name="FR: CINE FRISSON SD" tvg-logo="" group-title="FRANCE SD",FR: CINE FRISSON SD
+http://pro.bilix.ma:2082/live/110048490145344/71615111/31186.m3u8
+#EXTINF:-1 tvg-ID="chassepeche.fr" tvg-name="FR: Chasse et Peche  SD" tvg-logo="" group-title="FRANCE SD",FR: Chasse et Peche  SD
+http://pro.bilix.ma:2082/live/110048490145344/71615111/31418.m3u8
+#EXTINF:-1 tvg-ID="cherie25.fr" tvg-name="FR: CHERIE 25 SD" tvg-logo="" group-title="FRANCE SD",FR: CHERIE 25 SD
+http://pro.bilix.ma:2082/live/110048490145344/71615111/31188.m3u8
+#EXTINF:-1 tvg-ID="c8.fr" tvg-name="FR: C8 SD" tvg-logo="" group-title="FRANCE SD",FR: C8 SD
+http://pro.bilix.ma:2082/live/110048490145344/71615111/31425.m3u8
+#EXTINF:-1 tvg-ID="france2.fr" tvg-name="FR: FRANCE 2 SD" tvg-logo="" group-title="FRANCE SD",FR: FRANCE 2 SD
+http://pro.bilix.ma:2082/live/110048490145344/71615111/31413.m3u8
+#EXTINF:-1 tvg-ID="france3.fr" tvg-name="FR: FRANCE 3 SD" tvg-logo="" group-title="FRANCE SD",FR: FRANCE 3 SD
+http://pro.bilix.ma:2082/live/110048490145344/71615111/31172.m3u8
+#EXTINF:-1 tvg-ID="france4.fr" tvg-name="FR: FRANCE 4 SD" tvg-logo="" group-title="FRANCE SD",FR: FRANCE 4 SD
+http://pro.bilix.ma:2082/live/110048490145344/71615111/31173.m3u8
+#EXTINF:-1 tvg-ID="france5.fr" tvg-name="FR: FRANCE 5 SD" tvg-logo="" group-title="FRANCE SD",FR: FRANCE 5 SD
+http://pro.bilix.ma:2082/live/110048490145344/71615111/31174.m3u8
+#EXTINF:-1 tvg-ID="franceo.fr" tvg-name="FR: FRANCE O SD" tvg-logo="" group-title="FRANCE SD",FR: FRANCE O SD
+http://pro.bilix.ma:2082/live/110048490145344/71615111/31175.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="FR: GULLI SD" tvg-logo="" group-title="FRANCE SD",FR: GULLI SD
+http://pro.bilix.ma:2082/live/110048490145344/71615111/31203.m3u8
+#EXTINF:-1 tvg-ID="gameone.fr" tvg-name="FR: GAME ONE SD" tvg-logo="" group-title="FRANCE SD",FR: GAME ONE SD
+http://pro.bilix.ma:2082/live/110048490145344/71615111/31205.m3u8
+#EXTINF:-1 tvg-ID="m6.fr" tvg-name="FR: M6 SD" tvg-logo="" group-title="FRANCE SD",FR: M6 SD
+http://pro.bilix.ma:2082/live/110048490145344/71615111/31176.m3u8
+#EXTINF:-1 tvg-ID="mangas.fr" tvg-name="FR: MANGAS SD" tvg-logo="" group-title="FRANCE SD",FR: MANGAS SD
+http://pro.bilix.ma:2082/live/110048490145344/71615111/31204.m3u8
+#EXTINF:-1 tvg-ID="nrj12.fr" tvg-name="FR: NRJ 12 SD" tvg-logo="" group-title="FRANCE SD",FR: NRJ 12 SD
+http://pro.bilix.ma:2082/live/110048490145344/71615111/31189.m3u8
+#EXTINF:-1 tvg-ID="natgeowild.fr" tvg-name="FR: Nat Geo WILD SD" tvg-logo="" group-title="FRANCE SD",FR: Nat Geo WILD SD
+http://pro.bilix.ma:2082/live/110048490145344/71615111/31200.m3u8
+#EXTINF:-1 tvg-ID="natgeo.fr" tvg-name="FR: Nat Geo SD" tvg-logo="" group-title="FRANCE SD",FR: Nat Geo SD
+http://pro.bilix.ma:2082/live/110048490145344/71615111/31201.m3u8
+#EXTINF:-1 tvg-ID="parispremiere.fr" tvg-name="FR: PARIS PREMIERE SD" tvg-logo="" group-title="FRANCE SD",FR: PARIS PREMIERE SD
+http://pro.bilix.ma:2082/live/110048490145344/71615111/31180.m3u8
+#EXTINF:-1 tvg-ID="paramountchannel.fr" tvg-name="FR: PARAMOUNT CHANNEL SD" tvg-logo="" group-title="FRANCE SD",FR: PARAMOUNT CHANNEL SD
+http://pro.bilix.ma:2082/live/110048490145344/71615111/31191.m3u8
+#EXTINF:-1 tvg-ID="planeteplus.fr" tvg-name="FR: PLANETE+ SD" tvg-logo="" group-title="FRANCE SD",FR: PLANETE+ SD
+http://pro.bilix.ma:2082/live/110048490145344/71615111/31196.m3u8
+#EXTINF:-1 tvg-ID="planeteadventureexperience.fr" tvg-name="FR: PLANETE AE SD" tvg-logo="" group-title="FRANCE SD",FR: PLANETE AE SD
+http://pro.bilix.ma:2082/live/110048490145344/71615111/31197.m3u8
+#EXTINF:-1 tvg-ID="planetecrimeinvestigation.fr" tvg-name="FR: PLANETE CI SD" tvg-logo="" group-title="FRANCE SD",FR: PLANETE CI SD
+http://pro.bilix.ma:2082/live/110048490145344/71615111/31198.m3u8
+#EXTINF:-1 tvg-ID="rmcstory.fr" tvg-name="FR: RMC Story SD" tvg-logo="" group-title="FRANCE SD",FR: RMC Story SD
+http://pro.bilix.ma:2082/live/110048490145344/71615111/31178.m3u8
+#EXTINF:-1 tvg-ID="rtl9.fr" tvg-name="FR: RTL9 SD" tvg-logo="" group-title="FRANCE SD",FR: RTL9 SD
+http://pro.bilix.ma:2082/live/110048490145344/71615111/31952.m3u8
+#EXTINF:-1 tvg-ID="tiji.fr" tvg-name="FR: TIJI SD" tvg-logo="" group-title="FRANCE SD",FR: TIJI SD
+http://pro.bilix.ma:2082/live/110048490145344/71615111/31206.m3u8
+#EXTINF:-1 tvg-ID="tf1.fr" tvg-name="FR: TF1 SD" tvg-logo="" group-title="FRANCE SD",FR: TF1 SD
+http://pro.bilix.ma:2082/live/110048490145344/71615111/31412.m3u8
+#EXTINF:-1 tvg-ID="tfx.fr" tvg-name="FR: TFX SD" tvg-logo="" group-title="FRANCE SD",FR: TFX SD
+http://pro.bilix.ma:2082/live/110048490145344/71615111/31414.m3u8
+#EXTINF:-1 tvg-ID="tf1seriesfilms.fr" tvg-name="FR: Orange cinema GO" tvg-logo="" group-title="FRANCE HD",FR: Orange cinema GO
+http://pro.bilix.ma:2082/live/110048490145344/71615111/31415.m3u8
+#EXTINF:-1 tvg-ID="tmc.fr" tvg-name="FR : TMC SD" tvg-logo="" group-title="FRANCE SD",FR : TMC SD
+http://pro.bilix.ma:2082/live/110048490145344/71615111/31423.m3u8
+#EXTINF:-1 tvg-ID="teva.fr" tvg-name="FR: Teva Sd" tvg-logo="" group-title="FRANCE SD",FR: Teva Sd
+http://pro.bilix.ma:2082/live/110048490145344/71615111/31953.m3u8
+#EXTINF:-1 tvg-ID="ushuaiatv.fr" tvg-name="FR: USHUAIA SD" tvg-logo="" group-title="FRANCE SD",FR: USHUAIA SD
+http://pro.bilix.ma:2082/live/110048490145344/71615111/31199.m3u8
+#EXTINF:-1 tvg-ID="voyage.fr" tvg-name="FR: Voyage SD" tvg-logo="" group-title="FRANCE SD",FR: Voyage SD
+http://pro.bilix.ma:2082/live/110048490145344/71615111/31956.m3u8
+#EXTINF:-1 tvg-ID="w9.fr" tvg-name="FR: W9 SD" tvg-logo="" group-title="FRANCE SD",FR: W9 SD
+http://pro.bilix.ma:2082/live/110048490145344/71615111/31190.m3u8
+#EXTINF:-1 tvg-ID="13emerue.fr" tvg-name="FR: 13eme Rue" tvg-logo="http://pro.waldi2017.com/logo/Alphabetic/13eme_rue_fr.png" group-title="FRANCE HD",FR: 13eme Rue
+http://pro.bilix.ma:2082/live/110048490145344/71615111/318.m3u8
+#EXTINF:-1 tvg-ID="Fashion TV" tvg-name="FR: Netflix discovery" tvg-logo="https://essentialinstall.com/wp-content/uploads/2016/12/Netflix-Logo-2016.png" group-title="FRANCE HD",FR: Netflix discovery
+http://pro.bilix.ma:2082/live/110048490145344/71615111/15608.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Netflix spectacle" tvg-logo="" group-title="FRANCE HD",FR: Netflix spectacle
+http://pro.bilix.ma:2082/live/110048490145344/71615111/23491.m3u8
+#EXTINF:-1 tvg-ID="NetflixHorror" tvg-name="FR: Netflix Horror" tvg-logo="https://essentialinstall.com/wp-content/uploads/2016/12/Netflix-Logo-2016.png" group-title="FRANCE HD",FR: Netflix Horror
+http://pro.bilix.ma:2082/live/110048490145344/71615111/12777.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Netflix Drama" tvg-logo="https://essentialinstall.com/wp-content/uploads/2016/12/Netflix-Logo-2016.png" group-title="FRANCE HD",FR: Netflix Drama
+http://pro.bilix.ma:2082/live/110048490145344/71615111/12778.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="FR: netflix Action" tvg-logo="https://essentialinstall.com/wp-content/uploads/2016/12/Netflix-Logo-2016.png" group-title="FRANCE HD",FR: netflix Action
+http://pro.bilix.ma:2082/live/110048490145344/71615111/12768.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Netflix Comedy" tvg-logo="https://essentialinstall.com/wp-content/uploads/2016/12/Netflix-Logo-2016.png" group-title="FRANCE HD",FR: Netflix Comedy
+http://pro.bilix.ma:2082/live/110048490145344/71615111/12779.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Skyflix Documentaire" tvg-logo="" group-title="FRANCE HD",FR: Skyflix Documentaire
+http://pro.bilix.ma:2082/live/110048490145344/71615111/21659.m3u8
+#EXTINF:-1 tvg-ID="6ter.fr" tvg-name="FR: 6ter" tvg-logo="http://pro.waldi2017.com/logo/france/6ter_fr.png" group-title="FRANCE HD",FR: 6ter
+http://pro.bilix.ma:2082/live/110048490145344/71615111/30.m3u8
+#EXTINF:-1 tvg-ID="ab1.fr" tvg-name="FR: AB1" tvg-logo="http://pro.waldi2017.com/logo/france/ab1.png" group-title="FRANCE HD",FR: AB1
+http://pro.bilix.ma:2082/live/110048490145344/71615111/153.m3u8
+#EXTINF:-1 tvg-ID="ab3.fr" tvg-name="FR: AB3" tvg-logo="http://pro.waldi2017.com/logo/Alphabetic/ab3.png" group-title="FRANCE HD",FR: AB3
+http://pro.bilix.ma:2082/live/110048490145344/71615111/3637.m3u8
+#EXTINF:-1 tvg-ID="OLTV FR" tvg-name="FR: ABXPLORE" tvg-logo="" group-title="FRANCE HD",FR: ABXPLORE
+http://pro.bilix.ma:2082/live/110048490145344/71615111/12472.m3u8
+#EXTINF:-1 tvg-ID="action.fr" tvg-name="FR: Action" tvg-logo="http://pro.waldi2017.com/logo/france/action_fr.png" group-title="FRANCE HD",FR: Action
+http://pro.bilix.ma:2082/live/110048490145344/71615111/307.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Alsac20" tvg-logo="http://pro.waldi2017.com/logo/france/alsace_20_fr.png" group-title="FRANCE HD",FR: Alsac20
+http://pro.bilix.ma:2082/live/110048490145344/71615111/12766.m3u8
+#EXTINF:-1 tvg-ID="i24news.fr" tvg-name="FR: I24 news" tvg-logo="" group-title="FRANCE HD",FR: I24 news
+http://pro.bilix.ma:2082/live/110048490145344/71615111/20697.m3u8
+#EXTINF:-1 tvg-ID="alticestudio.fr" tvg-name="FR: Altice studio" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/7/71/Altice_studio_logo.png" group-title="FRANCE HD",FR: Altice studio
+http://pro.bilix.ma:2082/live/110048490145344/71615111/23007.m3u8
+#EXTINF:-1 tvg-ID="animaux.fr" tvg-name="FR: Animaux" tvg-logo="http://pro.waldi2017.com/logo/Alphabetic/animaux_fr.png" group-title="FRANCE HD",FR: Animaux
+http://pro.bilix.ma:2082/live/110048490145344/71615111/164.m3u8
+#EXTINF:-1 tvg-ID="arte.fr" tvg-name="FR: Arte" tvg-logo="http://pro.waldi2017.com/logo/france/arte_fr_hd.png" group-title="FRANCE HD",FR: Arte
+http://pro.bilix.ma:2082/live/110048490145344/71615111/12.m3u8
+#EXTINF:-1 tvg-ID="bet.fr" tvg-name="FR: BET France" tvg-logo="http://pro.waldi2017.com/logo/france/fr.png" group-title="FRANCE HD",FR: BET France
+http://pro.bilix.ma:2082/live/110048490145344/71615111/10408.m3u8
+#EXTINF:-1 tvg-ID="BFM Business FR" tvg-name="FR: BFM Business" tvg-logo="http://pro.waldi2017.com/logo/france/bfm_fr_business.png" group-title="FRANCE HD",FR: BFM Business
+http://pro.bilix.ma:2082/live/110048490145344/71615111/12236.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="FR: BFM Littoral" tvg-logo="http://163.172.50.109/logos/BFMLittoral.png" group-title="FRANCE HD",FR: BFM Littoral
+http://pro.bilix.ma:2082/live/110048490145344/71615111/23189.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="FR: BFM LYON" tvg-logo="http://pro.waldi2017.com/logo/Alphabetic/bfm_fr_tv.png" group-title="FRANCE HD",FR: BFM LYON
+http://pro.bilix.ma:2082/live/110048490145344/71615111/12659.m3u8
+#EXTINF:-1 tvg-ID="bfmtv.fr" tvg-name="FR: BFM PARIS" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/0/0e/BFM_Paris_logo_2016.svg/1200px-BFM_Paris_logo_2016.svg.png" group-title="FRANCE HD",FR: BFM PARIS
+http://pro.bilix.ma:2082/live/110048490145344/71615111/12237.m3u8
+#EXTINF:-1 tvg-ID="bfmtv.fr" tvg-name="FR: BFM TV" tvg-logo="http://pro.waldi2017.com/logo/france/bfm_fr_tv.png" group-title="FRANCE HD",FR: BFM TV
+http://pro.bilix.ma:2082/live/110048490145344/71615111/3406.m3u8
+#EXTINF:-1 tvg-ID="STINGRAY brava FR" tvg-name="FR: Brava" tvg-logo="http://pro.waldi2017.com/logo/france/stingray_ca_brava.png" group-title="FRANCE HD",FR: Brava
+http://pro.bilix.ma:2082/live/110048490145344/71615111/7611.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Chaine meteo" tvg-logo="" group-title="FRANCE HD",FR: Chaine meteo
+http://pro.bilix.ma:2082/live/110048490145344/71615111/42364.m3u8
+#EXTINF:-1 tvg-ID="c8.fr" tvg-name="FR: C8" tvg-logo="http://pro.waldi2017.com/logo/cc/c8_hu.png" group-title="FRANCE HD",FR: C8
+http://pro.bilix.ma:2082/live/110048490145344/71615111/10.m3u8
+#EXTINF:-1 tvg-ID="canalplus.fr" tvg-name="FR: Canal+" tvg-logo="http://pro.waldi2017.com/logo/france/canalplus_fr_hd.png" group-title="FRANCE HD",FR: Canal+
+http://pro.bilix.ma:2082/live/110048490145344/71615111/73.m3u8
+#EXTINF:-1 tvg-ID="canalpluscinema.fr" tvg-name="FR: Canal+ Cinema" tvg-logo="http://pro.waldi2017.com/logo/france/canalplus_fr_cinema_hd.png" group-title="FRANCE HD",FR: Canal+ Cinema
+http://pro.bilix.ma:2082/live/110048490145344/71615111/70.m3u8
+#EXTINF:-1 tvg-ID="canalplusdecale.fr" tvg-name="FR: Canal+ Decale" tvg-logo="http://pro.waldi2017.com/logo/Alphabetic/canalplus_fr_decale_hd.png" group-title="FRANCE HD",FR: Canal+ Decale
+http://pro.bilix.ma:2082/live/110048490145344/71615111/71.m3u8
+#EXTINF:-1 tvg-ID="canalplusfamily.fr" tvg-name="FR: Canal+family" tvg-logo="http://pro.waldi2017.com/logo/france/canalplus_fr_family.png" group-title="FRANCE HD",FR: Canal+family
+http://pro.bilix.ma:2082/live/110048490145344/71615111/72.m3u8
+#EXTINF:-1 tvg-ID="canalplusseries.fr" tvg-name="FR: Canal+Series" tvg-logo="http://pro.waldi2017.com/logo/france/canalplus_fr_series.png" group-title="FRANCE HD",FR: Canal+Series
+http://pro.bilix.ma:2082/live/110048490145344/71615111/74.m3u8
+#EXTINF:-1 tvg-ID="chassepeche.fr" tvg-name="FR: Chasse et Peche" tvg-logo="http://pro.waldi2017.com/logo/france/chasse_et_peche.png" group-title="FRANCE HD",FR: Chasse et Peche
+http://pro.bilix.ma:2082/live/110048490145344/71615111/155.m3u8
+#EXTINF:-1 tvg-ID="cherie25.fr" tvg-name="FR: Cherie 25" tvg-logo="http://pro.waldi2017.com/logo/france/cherie_25_fr.png" group-title="FRANCE HD",FR: Cherie 25
+http://pro.bilix.ma:2082/live/110048490145344/71615111/25.m3u8
+#EXTINF:-1 tvg-ID="polarplus.fr" tvg-name="FR: Polar Plus" tvg-logo="http://pro.waldi2017.com/logo/france/cine_polar.png" group-title="FRANCE HD",FR: Polar Plus
+http://pro.bilix.ma:2082/live/110048490145344/71615111/319.m3u8
+#EXTINF:-1 tvg-ID="cineplusclassic.fr" tvg-name="FR: Cine+Classic" tvg-logo="http://pro.waldi2017.com/logo/france/canalplus_fr_cine_plus_classic.png" group-title="FRANCE HD",FR: Cine+Classic
+http://pro.bilix.ma:2082/live/110048490145344/71615111/162.m3u8
+#EXTINF:-1 tvg-ID="cineplusclub.fr" tvg-name="FR: Cine+Club" tvg-logo="http://pro.waldi2017.com/logo/Alphabetic/canalplus_fr_cine_plus_club.png" group-title="FRANCE HD",FR: Cine+Club
+http://pro.bilix.ma:2082/live/110048490145344/71615111/309.m3u8
+#EXTINF:-1 tvg-ID="cineplusemotion.fr" tvg-name="FR: Cine+Emotion" tvg-logo="http://pro.waldi2017.com/logo/Alphabetic/canalplus_fr_cine_plus_emotion_hd.png" group-title="FRANCE HD",FR: Cine+Emotion
+http://pro.bilix.ma:2082/live/110048490145344/71615111/161.m3u8
+#EXTINF:-1 tvg-ID="cineplusamiz.fr" tvg-name="FR: Cine+Famiz" tvg-logo="http://pro.waldi2017.com/logo/france/canalplus_fr_cine_plus_famiz.png" group-title="FRANCE HD",FR: Cine+Famiz
+http://pro.bilix.ma:2082/live/110048490145344/71615111/311.m3u8
+#EXTINF:-1 tvg-ID="cinepluspremier.fr" tvg-name="FR: Cine+Premier" tvg-logo="http://pro.waldi2017.com/logo/france/canalplus_fr_cine_plus_premier.png" group-title="FRANCE HD",FR: Cine+Premier
+http://pro.bilix.ma:2082/live/110048490145344/71615111/313.m3u8
+#EXTINF:-1 tvg-ID="cineplusfrisson.fr" tvg-name="FR: Cine+frisson " tvg-logo="http://pro.waldi2017.com/logo/france/canalplus_fr_cine_plus_frisson_hd.png" group-title="FRANCE HD",FR: Cine+frisson 
+http://pro.bilix.ma:2082/live/110048490145344/71615111/30443.m3u8
+#EXTINF:-1 tvg-ID="cnews.fr" tvg-name="FR: CNews" tvg-logo="http://pro.waldi2017.com/logo/france/canalplus_fr_c_news.png" group-title="FRANCE HD",FR: CNews
+http://pro.bilix.ma:2082/live/110048490145344/71615111/3403.m3u8
+#EXTINF:-1 tvg-ID="comedieplus.fr" tvg-name="FR: Comedie+" tvg-logo="http://pro.waldi2017.com/logo/Alphabetic/canalplus_fr_comedie_plus.png" group-title="FRANCE HD",FR: Comedie+
+http://pro.bilix.ma:2082/live/110048490145344/71615111/328.m3u8
+#EXTINF:-1 tvg-ID="crimedistrict.fr" tvg-name="FR: Crime District" tvg-logo="http://pro.waldi2017.com/logo/Alphabetic/crime_district_fr.png" group-title="FRANCE HD",FR: Crime District
+http://pro.bilix.ma:2082/live/110048490145344/71615111/3697.m3u8
+#EXTINF:-1 tvg-ID="cstar.fr" tvg-name="FR: CStar" tvg-logo="http://pro.waldi2017.com/logo/Alphabetic/canalplus_fr_cine_plus_star.png" group-title="FRANCE HD",FR: CStar
+http://pro.bilix.ma:2082/live/110048490145344/71615111/151.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Dici tv" tvg-logo="http://pro.waldi2017.com/logo/france/dici_tv_fr.png" group-title="FRANCE HD",FR: Dici tv
+http://pro.bilix.ma:2082/live/110048490145344/71615111/23190.m3u8
+#EXTINF:-1 tvg-ID="discoverychannel.fr" tvg-name="FR: Discovery Channel" tvg-logo="http://pro.waldi2017.com/logo/Alphabetic/discovery_global_us_hd.png" group-title="FRANCE HD",FR: Discovery Channel
+http://pro.bilix.ma:2082/live/110048490145344/71615111/304.m3u8
+#EXTINF:-1 tvg-ID="discoveryfamily.fr" tvg-name="FR: Discovery Family" tvg-logo="https://corporate.discovery.com/wp-content/uploads/2015/07/logos_DFC_PRIME_FLAT-pos.png" group-title="FRANCE HD",FR: Discovery Family
+http://pro.bilix.ma:2082/live/110048490145344/71615111/7828.m3u8
+#EXTINF:-1 tvg-ID="discoveryscience.fr" tvg-name="FR: Discovery Investigation" tvg-logo="http://pro.waldi2017.com/logo/Alphabetic/investigation_discovery_us_hd.png" group-title="FRANCE HD",FR: Discovery Investigation
+http://pro.bilix.ma:2082/live/110048490145344/71615111/3200.m3u8
+#EXTINF:-1 tvg-ID="discoveryscience.fr" tvg-name="FR: Discovery science" tvg-logo="http://pro.waldi2017.com/logo/Alphabetic/discovery_science_global_hd.png" group-title="FRANCE HD",FR: Discovery science
+http://pro.bilix.ma:2082/live/110048490145344/71615111/22.m3u8
+#EXTINF:-1 tvg-ID="disneychannel.fr" tvg-name="FR: Disney Channel" tvg-logo="http://pro.waldi2017.com/logo/france/disney_channel_global.png" group-title="FRANCE KIDS",FR: Disney Channel
+http://pro.bilix.ma:2082/live/110048490145344/71615111/320.m3u8
+#EXTINF:-1 tvg-ID="eentertainment.fr" tvg-name="FR: E!" tvg-logo="https://pmcvariety.files.wordpress.com/2019/08/e-logo.jpg?w=681&h=383&crop=1" group-title="FRANCE HD",FR: E!
+http://pro.bilix.ma:2082/live/110048490145344/71615111/3636.m3u8
+#EXTINF:-1 tvg-ID="equidialive.fr" tvg-name="FR: Equidia Life" tvg-logo="http://pro.waldi2017.com/logo/france/equidia_live.png" group-title="FRANCE SPORT",FR: Equidia Life
+http://pro.bilix.ma:2082/live/110048490145344/71615111/3638.m3u8
+#EXTINF:-1 tvg-ID="euronews FR" tvg-name="FR: euronews" tvg-logo="http://pro.waldi2017.com/logo/france/euronews_fr.png" group-title="FRANCE HD",FR: euronews
+http://pro.bilix.ma:2082/live/110048490145344/71615111/169.m3u8
+#EXTINF:-1 tvg-ID="france2.fr" tvg-name="FR: France 2" tvg-logo="http://pro.waldi2017.com/logo/france/france2_hd.png" group-title="FRANCE HD",FR: France 2
+http://pro.bilix.ma:2082/live/110048490145344/71615111/5.m3u8
+#EXTINF:-1 tvg-ID="france24.fr" tvg-name="FR: France 24" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/2/24/Logos_FRANCE24_RVB_2013.svg/1200px-Logos_FRANCE24_RVB_2013.svg.png" group-title="FRANCE HD",FR: France 24
+http://pro.bilix.ma:2082/live/110048490145344/71615111/15612.m3u8
+#EXTINF:-1 tvg-ID="france3.fr" tvg-name="FR: France 3" tvg-logo="http://pro.waldi2017.com/logo/france/france3_hd.png" group-title="FRANCE HD",FR: France 3
+http://pro.bilix.ma:2082/live/110048490145344/71615111/12477.m3u8
+#EXTINF:-1 tvg-ID="france4.fr" tvg-name="FR: France 4" tvg-logo="http://pro.waldi2017.com/logo/france/france3_hd.png" group-title="FRANCE HD",FR: France 4
+http://pro.bilix.ma:2082/live/110048490145344/71615111/7.m3u8
+#EXTINF:-1 tvg-ID="france5.fr" tvg-name="FR: France 5" tvg-logo="http://pro.waldi2017.com/logo/france/france5.png" group-title="FRANCE HD",FR: France 5
+http://pro.bilix.ma:2082/live/110048490145344/71615111/8.m3u8
+#EXTINF:-1 tvg-ID="franceinfo.fr" tvg-name="FR: France Info" tvg-logo="http://pro.waldi2017.com/logo/france/france_info_tv.png" group-title="FRANCE HD",FR: France Info
+http://pro.bilix.ma:2082/live/110048490145344/71615111/12473.m3u8
+#EXTINF:-1 tvg-ID="franceo.fr" tvg-name="FR: France O" tvg-logo="http://pro.waldi2017.com/logo/france/france_o.png" group-title="FRANCE HD",FR: France O
+http://pro.bilix.ma:2082/live/110048490145344/71615111/11.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Francophonie-24" tvg-logo="http://pro.waldi2017.com/logo/pays/fr.png" group-title="FRANCE HD",FR: Francophonie-24
+http://pro.bilix.ma:2082/live/110048490145344/71615111/7615.m3u8
+#EXTINF:-1 tvg-ID="Gong FR" tvg-name="FR: Gong" tvg-logo="http://kbbpf.lescigales.org/Logos/GONG-TV.SD.png" group-title="FRANCE HD",FR: Gong
+http://pro.bilix.ma:2082/live/110048490145344/71615111/3306.m3u8
+#EXTINF:-1 tvg-ID="Gong FR" tvg-name="FR: Baby tv" tvg-logo="http://kbbpf.lescigales.org/Logos/GONG-TV.SD.png" group-title="FRANCE KIDS",FR: Baby tv
+http://pro.bilix.ma:2082/live/110048490145344/71615111/15600.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="FR: BFM lille" tvg-logo="http://pro.waldi2017.com/logo/france/animaux_fr.png" group-title="FRANCE HD",FR: BFM lille
+http://pro.bilix.ma:2082/live/110048490145344/71615111/10409.m3u8
+#EXTINF:-1 tvg-ID="histoire.fr" tvg-name="FR: Histoire" tvg-logo="http://pro.waldi2017.com/logo/france/histoire_fr.png" group-title="FRANCE HD",FR: Histoire
+http://pro.bilix.ma:2082/live/110048490145344/71615111/310.m3u8
+#EXTINF:-1 tvg-ID="gameone.fr" tvg-name="FR: J-one" tvg-logo="http://pro.waldi2017.com/logo/france/j_one_fr.png" group-title="FRANCE HD",FR: J-one
+http://pro.bilix.ma:2082/live/110048490145344/71615111/21832.m3u8
+#EXTINF:-1 tvg-ID="kto.fr" tvg-name="FR: KTO" tvg-logo="http://pro.waldi2017.com/logo/france/kto.png" group-title="FRANCE HD",FR: KTO
+http://pro.bilix.ma:2082/live/110048490145344/71615111/15601.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="FR: LA TELE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/Nouveau-logo-latele.png" group-title="FRANCE HD",FR: LA TELE
+http://pro.bilix.ma:2082/live/110048490145344/71615111/23187.m3u8
+#EXTINF:-1 tvg-ID="lci.fr" tvg-name="FR: LCI" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/38/LCI_-_Logo_%28Ao%C3%BBt_2017%29.svg/1200px-LCI_-_Logo_%28Ao%C3%BBt_2017%29.svg.png" group-title="FRANCE HD",FR: LCI
+http://pro.bilix.ma:2082/live/110048490145344/71615111/15466.m3u8
+#EXTINF:-1 tvg-ID="lachaineparlementaire.fr" tvg-name="FR: Lcp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/LCP.png" group-title="FRANCE HD",FR: Lcp
+http://pro.bilix.ma:2082/live/110048490145344/71615111/30348.m3u8
+#EXTINF:-1 tvg-ID="m6.fr" tvg-name="FR: M6" tvg-logo="http://pro.waldi2017.com/logo/france/m6_fr.png" group-title="FRANCE HD",FR: M6
+http://pro.bilix.ma:2082/live/110048490145344/71615111/8319.m3u8
+#EXTINF:-1 tvg-ID="m6music.fr" tvg-name="FR: M6 Music" tvg-logo="http://pro.waldi2017.com/logo/france/m6_music_fr.png" group-title="FRANCE HD",FR: M6 Music
+http://pro.bilix.ma:2082/live/110048490145344/71615111/3042.m3u8
+#EXTINF:-1 tvg-ID="mangas.fr" tvg-name="FR: Mangas" tvg-logo="http://pro.waldi2017.com/logo/france/mangas_fr.png" group-title="FRANCE KIDS",FR: Mangas
+http://pro.bilix.ma:2082/live/110048490145344/71615111/170.m3u8
+#EXTINF:-1 tvg-ID="13emerue.fr" tvg-name="FR: Mezzo" tvg-logo="http://pro.waldi2017.com/logo/Alphabetic/mezzo.png" group-title="FRANCE HD",FR: Mezzo
+http://pro.bilix.ma:2082/live/110048490145344/71615111/42381.m3u8
+#EXTINF:-1 tvg-ID="mtv.fr" tvg-name="FR: MTV" tvg-logo="http://pro.waldi2017.com/logo/france/mtv_us.png" group-title="FRANCE HD",FR: MTV
+http://pro.bilix.ma:2082/live/110048490145344/71615111/7628.m3u8
+#EXTINF:-1 tvg-ID="mtv.fr" tvg-name="FR: MTV HITS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/MTV_Base_2013_logo.svg/1200px-MTV_Base_2013_logo.svg.png" group-title="FRANCE HD",FR: MTV HITS
+http://pro.bilix.ma:2082/live/110048490145344/71615111/12656.m3u8
+#EXTINF:-1 tvg-ID="mtv.fr" tvg-name="FR: MTV CLUB" tvg-logo="" group-title="FRANCE HD",FR: MTV CLUB
+http://pro.bilix.ma:2082/live/110048490145344/71615111/42382.m3u8
+#EXTINF:-1 tvg-ID="mcm.fr" tvg-name="FR: MCM" tvg-logo="http://pro.waldi2017.com/logo/Alphabetic/mcm_pop.png" group-title="FRANCE HD",FR: MCM
+http://pro.bilix.ma:2082/live/110048490145344/71615111/42380.m3u8
+#EXTINF:-1 tvg-ID="mcmtop.fr" tvg-name="FR: MCM Top" tvg-logo="http://pro.waldi2017.com/logo/france/mcm_top_fr.png" group-title="FRANCE HD",FR: MCM Top
+http://pro.bilix.ma:2082/live/110048490145344/71615111/7614.m3u8
+#EXTINF:-1 tvg-ID="melody.fr" tvg-name="FR: Melody" tvg-logo="" group-title="FRANCE HD",FR: Melody
+http://pro.bilix.ma:2082/live/110048490145344/71615111/32186.m3u8
+#EXTINF:-1 tvg-ID="mezzolivehd.es" tvg-name="FR: Mezzo Live" tvg-logo="http://pro.waldi2017.com/logo/france/mezzo.png" group-title="FRANCE HD",FR: Mezzo Live
+http://pro.bilix.ma:2082/live/110048490145344/71615111/7612.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="FR: My Comedy" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/11f243c6aa72f4825692e016bddb4171.png" group-title="FRANCE HD",FR: My Comedy
+http://pro.bilix.ma:2082/live/110048490145344/71615111/12767.m3u8
+#EXTINF:-1 tvg-ID="natgeowild.fr" tvg-name="FR: Nat Geo Wild" tvg-logo="http://pro.waldi2017.com/logo/france/nat_geo_wild_us.png" group-title="FRANCE HD",FR: Nat Geo Wild
+http://pro.bilix.ma:2082/live/110048490145344/71615111/157.m3u8
+#EXTINF:-1 tvg-ID="natgeo.fr" tvg-name="FR: Natl Geo HD" tvg-logo="http://pro.waldi2017.com/logo/france/nat_geo_us.png" group-title="FRANCE HD",FR: Natl Geo HD
+http://pro.bilix.ma:2082/live/110048490145344/71615111/158.m3u8
+#EXTINF:-1 tvg-ID="nickelodeon.fr" tvg-name="FR: Nickelodeon" tvg-logo="http://pro.waldi2017.com/logo/france/nickelodeon_us.png" group-title="FRANCE KIDS",FR: Nickelodeon
+http://pro.bilix.ma:2082/live/110048490145344/71615111/316.m3u8
+#EXTINF:-1 tvg-ID="nickjr.fr" tvg-name="FR: Nickelodeon Junior" tvg-logo="http://pro.waldi2017.com/logo/france/nickelodeon_junior_fr.png" group-title="FRANCE KIDS",FR: Nickelodeon Junior
+http://pro.bilix.ma:2082/live/110048490145344/71615111/4249.m3u8
+#EXTINF:-1 tvg-ID="nickelodeon4teen.fr" tvg-name="FR: Nickelodeon Teen" tvg-logo="http://pro.waldi2017.com/logo/france/nickelodeon_4_teen_fr.png" group-title="FRANCE KIDS",FR: Nickelodeon Teen
+http://pro.bilix.ma:2082/live/110048490145344/71615111/3290.m3u8
+#EXTINF:-1 tvg-ID="nrj12.fr" tvg-name="FR: NRJ 12" tvg-logo="http://pro.waldi2017.com/logo/france/nrj_fr_12_hd.png" group-title="FRANCE HD",FR: NRJ 12
+http://pro.bilix.ma:2082/live/110048490145344/71615111/27.m3u8
+#EXTINF:-1 tvg-ID="nrjhits.fr" tvg-name="FR: NRJ Hits" tvg-logo="http://pro.waldi2017.com/logo/france/nrj_fr_hits.png" group-title="FRANCE HD",FR: NRJ Hits
+http://pro.bilix.ma:2082/live/110048490145344/71615111/306.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Orange cine" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/f/f7/Orange_cin%C3%A9_max.svg/1492px-Orange_cin%C3%A9_max.svg.png" group-title="FRANCE HD",FR: Orange cine
+http://pro.bilix.ma:2082/live/110048490145344/71615111/20815.m3u8
+#EXTINF:-1 tvg-ID="ocschoc.fr" tvg-name="FR: OCS Choc" tvg-logo="http://pro.waldi2017.com/logo/france/ocs_choc.png" group-title="FRANCE HD",FR: OCS Choc
+http://pro.bilix.ma:2082/live/110048490145344/71615111/676.m3u8
+#EXTINF:-1 tvg-ID="ocscity.fr" tvg-name="FR: OCS City" tvg-logo="http://pro.waldi2017.com/logo/france/ocs_city.png" group-title="FRANCE HD",FR: OCS City
+http://pro.bilix.ma:2082/live/110048490145344/71615111/160.m3u8
+#EXTINF:-1 tvg-ID="ocsgeants.fr" tvg-name="FR: OCS Geants" tvg-logo="http://pro.waldi2017.com/logo/france/ocs_geants.png" group-title="FRANCE HD",FR: OCS Geants
+http://pro.bilix.ma:2082/live/110048490145344/71615111/675.m3u8
+#EXTINF:-1 tvg-ID="ocsmax.fr" tvg-name="FR: OCS Max" tvg-logo="http://pro.waldi2017.com/logo/france/ocs_max.png" group-title="FRANCE HD",FR: OCS Max
+http://pro.bilix.ma:2082/live/110048490145344/71615111/159.m3u8
+#EXTINF:-1 tvg-ID="paramountchannel.fr" tvg-name="FR: Paramount Channel" tvg-logo="http://pro.waldi2017.com/logo/france/paramount_channel_us.png" group-title="FRANCE HD",FR: Paramount Channel
+http://pro.bilix.ma:2082/live/110048490145344/71615111/677.m3u8
+#EXTINF:-1 tvg-ID="parispremiere.fr" tvg-name="FR: Paris Premiere" tvg-logo="http://pro.waldi2017.com/logo/france/paris_premiere_hd.png" group-title="FRANCE HD",FR: Paris Premiere
+http://pro.bilix.ma:2082/live/110048490145344/71615111/28.m3u8
+#EXTINF:-1 tvg-ID="planeteplus.fr" tvg-name="FR: Planete+" tvg-logo="http://pro.waldi2017.com/logo/france/planete_plus_hd.png" group-title="FRANCE HD",FR: Planete+
+http://pro.bilix.ma:2082/live/110048490145344/71615111/673.m3u8
+#EXTINF:-1 tvg-ID="rfmtv.fr" tvg-name="FR: RFM" tvg-logo="http://pro.waldi2017.com/logo/france/rfm_tv_fr.png" group-title="FRANCE HD",FR: RFM
+http://pro.bilix.ma:2082/live/110048490145344/71615111/12653.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Comedy central" tvg-logo="http://pro.waldi2017.com/logo/Alphabetic/comedy_central_us.png" group-title="FRANCE HD",FR: Comedy central
+http://pro.bilix.ma:2082/live/110048490145344/71615111/28269.m3u8
+#EXTINF:-1 tvg-ID="planeteadventureexperience.fr" tvg-name="FR: Planete+ AE" tvg-logo="http://pro.waldi2017.com/logo/france/planete_plus_action_experience.png" group-title="FRANCE HD",FR: Planete+ AE
+http://pro.bilix.ma:2082/live/110048490145344/71615111/672.m3u8
+#EXTINF:-1 tvg-ID="rmcdecouverte.fr" tvg-name="FR: RMC Decouverte" tvg-logo="http://pro.waldi2017.com/logo/france/rmc_decouverte.png" group-title="FRANCE HD",FR: RMC Decouverte
+http://pro.bilix.ma:2082/live/110048490145344/71615111/671.m3u8
+#EXTINF:-1 tvg-ID="rmcstory.fr" tvg-name="FR: RMC Story" tvg-logo="http://pro.waldi2017.com/logo/france/rmc_decouverte.png" group-title="FRANCE HD",FR: RMC Story
+http://pro.bilix.ma:2082/live/110048490145344/71615111/6007.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Rouge tv" tvg-logo="https://www.rouge.com/img/logo-rouge.png" group-title="FRANCE HD",FR: Rouge tv
+http://pro.bilix.ma:2082/live/110048490145344/71615111/23186.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="FR: RT france" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/9/9e/RT_France.svg/1200px-RT_France.svg.png" group-title="FRANCE HD",FR: RT france
+http://pro.bilix.ma:2082/live/110048490145344/71615111/16212.m3u8
+#EXTINF:-1 tvg-ID="rtl9.fr" tvg-name="FR: RTL 9" tvg-logo="http://pro.waldi2017.com/logo/france/rtl9.png" group-title="FRANCE HD",FR: RTL 9
+http://pro.bilix.ma:2082/live/110048490145344/71615111/24.m3u8
+#EXTINF:-1 tvg-ID="scienceandvie.fr" tvg-name="FR: Science Vie" tvg-logo="http://pro.waldi2017.com/logo/france/science_et_vie_tv_fr.png" group-title="FRANCE HD",FR: Science Vie
+http://pro.bilix.ma:2082/live/110048490145344/71615111/330.m3u8
+#EXTINF:-1 tvg-ID="seasons.fr" tvg-name="FR: Seasons" tvg-logo="http://pro.waldi2017.com/logo/france/canalplus_fr_seasons.png" group-title="FRANCE HD",FR: Seasons
+http://pro.bilix.ma:2082/live/110048490145344/71615111/981.m3u8
+#EXTINF:-1 tvg-ID="serieclub.fr" tvg-name="FR: Serie Club" tvg-logo="http://pro.waldi2017.com/logo/france/canalplus_fr_serie_club_hd.png" group-title="FRANCE HD",FR: Serie Club
+http://pro.bilix.ma:2082/live/110048490145344/71615111/446.m3u8
+#EXTINF:-1 tvg-ID="syfy.fr" tvg-name="FR: Syfy" tvg-logo="http://pro.waldi2017.com/logo/Alphabetic/syfy_us_east.png" group-title="FRANCE HD",FR: Syfy
+http://pro.bilix.ma:2082/live/110048490145344/71615111/798.m3u8
+#EXTINF:-1 tvg-ID="tcm.fr" tvg-name="FR: Tcm Cinema" tvg-logo="http://pro.waldi2017.com/logo/france/tcm_cinema_fr.png" group-title="FRANCE HD",FR: Tcm Cinema
+http://pro.bilix.ma:2082/live/110048490145344/71615111/980.m3u8
+#EXTINF:-1 tvg-ID="teletoonplus.fr" tvg-name="FR: Teletoon +" tvg-logo="" group-title="FRANCE KIDS",FR: Teletoon +
+http://pro.bilix.ma:2082/live/110048490145344/71615111/15585.m3u8
+#EXTINF:-1 tvg-ID="teva.fr" tvg-name="FR: Teva" tvg-logo="http://pro.waldi2017.com/logo/france/teva_fr.png" group-title="FRANCE HD",FR: Teva
+http://pro.bilix.ma:2082/live/110048490145344/71615111/31.m3u8
+#EXTINF:-1 tvg-ID="tf1.fr" tvg-name="FR: TF1" tvg-logo="http://pro.waldi2017.com/logo/france/tf1_hd.png" group-title="FRANCE HD",FR: TF1
+http://pro.bilix.ma:2082/live/110048490145344/71615111/4.m3u8
+#EXTINF:-1 tvg-ID="tf1.fr" tvg-name="FR: TF1 +1" tvg-logo="" group-title="FRANCE HD",FR: TF1 +1
+http://pro.bilix.ma:2082/live/110048490145344/71615111/31077.m3u8
+#EXTINF:-1 tvg-ID="tf1seriesfilms.fr" tvg-name="FR: TF1 Series Film" tvg-logo="http://pro.waldi2017.com/logo/france/tf1_hd.png" group-title="FRANCE HD",FR: TF1 Series Film
+http://pro.bilix.ma:2082/live/110048490145344/71615111/63.m3u8
+#EXTINF:-1 tvg-ID="tfx.fr" tvg-name="FR: TFX" tvg-logo="http://pro.waldi2017.com/logo/Alphabetic/tf1_hd.png" group-title="FRANCE HD",FR: TFX
+http://pro.bilix.ma:2082/live/110048490145344/71615111/163.m3u8
+#EXTINF:-1 tvg-ID="tmc.fr" tvg-name="FR: TMC" tvg-logo="http://pro.waldi2017.com/logo/Alphabetic/tmc_ch.png" group-title="FRANCE HD",FR: TMC
+http://pro.bilix.ma:2082/live/110048490145344/71615111/15.m3u8
+#EXTINF:-1 tvg-ID="trek.fr" tvg-name="FR: Trek" tvg-logo="" group-title="FRANCE HD",FR: Trek
+http://pro.bilix.ma:2082/live/110048490145344/71615111/42384.m3u8
+#EXTINF:-1 tvg-ID="toonami.fr" tvg-name="FR: Toonami" tvg-logo="http://pro.waldi2017.com/logo/Alphabetic/toonami-fr.png" group-title="FRANCE KIDS",FR: Toonami
+http://pro.bilix.ma:2082/live/110048490145344/71615111/7623.m3u8
+#EXTINF:-1 tvg-ID="toutehistoire.fr" tvg-name="FR: Toute lhistoire" tvg-logo="http://pro.waldi2017.com/logo/france/toute_histoire_fr.png" group-title="FRANCE HD",FR: Toute lhistoire
+http://pro.bilix.ma:2082/live/110048490145344/71615111/154.m3u8
+#EXTINF:-1 tvg-ID="traceafrica.fr" tvg-name="FR: Trace Urban" tvg-logo="http://pro.waldi2017.com/logo/france/trace_fr_urban_hd.png" group-title="FRANCE HD",FR: Trace Urban
+http://pro.bilix.ma:2082/live/110048490145344/71615111/34.m3u8
+#EXTINF:-1 tvg-ID="TV7 Bordeaux" tvg-name="FR: TV 7" tvg-logo="http://pro.waldi2017.com/logo/france/tv_7_fr_colmar.png" group-title="FRANCE HD",FR: TV 7
+http://pro.bilix.ma:2082/live/110048490145344/71615111/15603.m3u8
+#EXTINF:-1 tvg-ID="fashiontv.fr" tvg-name="FR: Tv5 style" tvg-logo="http://pro.waldi2017.com/logo/france/tv5_monde_style_hd.png" group-title="FRANCE HD",FR: Tv5 style
+http://pro.bilix.ma:2082/live/110048490145344/71615111/21534.m3u8
+#EXTINF:-1 tvg-ID="tv5monde.fr" tvg-name="FR: TV5MONDE" tvg-logo="http://pro.waldi2017.com/logo/france/tv5_monde_amerique_latine.png" group-title="FRANCE HD",FR: TV5MONDE
+http://pro.bilix.ma:2082/live/110048490145344/71615111/3401.m3u8
+#EXTINF:-1 tvg-ID="tvbreizh.fr" tvg-name="FR: TvBreizh" tvg-logo="http://pro.waldi2017.com/logo/france/tv_breizh_fr.png" group-title="FRANCE HD",FR: TvBreizh
+http://pro.bilix.ma:2082/live/110048490145344/71615111/23.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Tvpi" tvg-logo="http://pro.waldi2017.com/logo/france/tvpi_fr.png" group-title="FRANCE HD",FR: Tvpi
+http://pro.bilix.ma:2082/live/110048490145344/71615111/23185.m3u8
+#EXTINF:-1 tvg-ID="ushuaiatv.fr" tvg-name="FR: Ushuaia TV" tvg-logo="http://pro.waldi2017.com/logo/france/ushuaia_tv.png" group-title="FRANCE HD",FR: Ushuaia TV
+http://pro.bilix.ma:2082/live/110048490145344/71615111/443.m3u8
+#EXTINF:-1 tvg-ID="voyage.fr" tvg-name="FR: Voyage" tvg-logo="http://pro.waldi2017.com/logo/france/voyage_fr.png" group-title="FRANCE HD",FR: Voyage
+http://pro.bilix.ma:2082/live/110048490145344/71615111/329.m3u8
+#EXTINF:-1 tvg-ID="viceland.fr" tvg-name="FR: Viceland" tvg-logo="" group-title="FRANCE HD",FR: Viceland
+http://pro.bilix.ma:2082/live/110048490145344/71615111/71383.m3u8
+#EXTINF:-1 tvg-ID="w9.fr" tvg-name="FR: W9" tvg-logo="http://pro.waldi2017.com/logo/france/w9_fr_hd.png" group-title="FRANCE HD",FR: W9
+http://pro.bilix.ma:2082/live/110048490145344/71615111/13.m3u8
+#EXTINF:-1 tvg-ID="warnertv.fr" tvg-name="FR: Warner TV" tvg-logo="https://www.digitaltveurope.com/files/2017/09/Warner_TV1.png" group-title="FRANCE HD",FR: Warner TV
+http://pro.bilix.ma:2082/live/110048490145344/71615111/12312.m3u8
+#EXTINF:-1 tvg-ID="Weo TV FR" tvg-name="FR: Weo TV" tvg-logo="http://pro.waldi2017.com/logo/france/weo_tv_fr.png" group-title="FRANCE HD",FR: Weo TV
+http://pro.bilix.ma:2082/live/110048490145344/71615111/7625.m3u8
+#EXTINF:-1 tvg-ID="planetecrimeinvestigation.fr" tvg-name="FR: Planete+ crime" tvg-logo="http://pro.waldi2017.com/logo/france/planete_plus_crime_investigation.png" group-title="FRANCE HD",FR: Planete+ crime
+http://pro.bilix.ma:2082/live/110048490145344/71615111/674.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="FR: LFM TV" tvg-logo="" group-title="FRANCE HD",FR: LFM TV
+http://pro.bilix.ma:2082/live/110048490145344/71615111/12298.m3u8
+#EXTINF:-1 tvg-ID="mycuisine.fr" tvg-name="FR: MY CUISINE" tvg-logo="https://static.wixstatic.com/media/5406f2_19f8a93332b841bebfeecf4a65db2005~mv2.png" group-title="FRANCE HD",FR: MY CUISINE
+http://pro.bilix.ma:2082/live/110048490145344/71615111/23954.m3u8
+#EXTINF:-1 tvg-ID="paramountchannel.fr" tvg-name="FR: Paramount Decale" tvg-logo="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2F316d904a1dd84060.2Epng/1200x630/crop-from/top/quality/80/paramount-channel.png" group-title="FRANCE HD",FR: Paramount Decale
+http://pro.bilix.ma:2082/live/110048490145344/71615111/30301.m3u8
+#EXTINF:-1 tvg-ID="13emerue.fr" tvg-name="FR: 13eme Rue FHD" tvg-logo="http://pro.waldi2017.com/logo/Alphabetic/13eme_rue_fr.png" group-title="FRANCE FHD",FR: 13eme Rue FHD
+http://pro.bilix.ma:2082/live/110048490145344/71615111/15524.m3u8
+#EXTINF:-1 tvg-ID="ab1.fr" tvg-name="FR: AB1 FHD" tvg-logo="http://pro.waldi2017.com/logo/france/ab1.png" group-title="FRANCE FHD",FR: AB1 FHD
+http://pro.bilix.ma:2082/live/110048490145344/71615111/15526.m3u8
+#EXTINF:-1 tvg-ID="action.fr" tvg-name="FR: Action FHD" tvg-logo="http://pro.waldi2017.com/logo/france/action_fr.png" group-title="FRANCE FHD",FR: Action FHD
+http://pro.bilix.ma:2082/live/110048490145344/71615111/15528.m3u8
+#EXTINF:-1 tvg-ID="alticestudio.fr" tvg-name="FR: Altice studio FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/7/71/Altice_studio_logo.png" group-title="FRANCE FHD",FR: Altice studio FHD
+http://pro.bilix.ma:2082/live/110048490145344/71615111/15490.m3u8
+#EXTINF:-1 tvg-ID="animaux.fr" tvg-name="FR: Animaux FHD" tvg-logo="http://pro.waldi2017.com/logo/Alphabetic/animaux_fr.png" group-title="FRANCE FHD",FR: Animaux FHD
+http://pro.bilix.ma:2082/live/110048490145344/71615111/15529.m3u8
+#EXTINF:-1 tvg-ID="arte.fr" tvg-name="FR: Arte FHD" tvg-logo="http://pro.waldi2017.com/logo/france/arte_fr_hd.png" group-title="FRANCE FHD",FR: Arte FHD
+http://pro.bilix.ma:2082/live/110048490145344/71615111/15530.m3u8
+#EXTINF:-1 tvg-ID="bet.fr" tvg-name="FR: BET France FHD" tvg-logo="http://pro.waldi2017.com/logo/france/fr.png" group-title="FRANCE FHD",FR: BET France FHD
+http://pro.bilix.ma:2082/live/110048490145344/71615111/15566.m3u8
+#EXTINF:-1 tvg-ID="c8.fr" tvg-name="FR: C8 FHD" tvg-logo="http://pro.waldi2017.com/logo/cc/c8_hu.png" group-title="FRANCE FHD",FR: C8 FHD
+http://pro.bilix.ma:2082/live/110048490145344/71615111/15533.m3u8
+#EXTINF:-1 tvg-ID="canalplus.fr" tvg-name="FR: Canal + FHD" tvg-logo="http://pro.waldi2017.com/logo/france/canalplus_fr_hd.png" group-title="FRANCE FHD",FR: Canal + FHD
+http://pro.bilix.ma:2082/live/110048490145344/71615111/15537.m3u8
+#EXTINF:-1 tvg-ID="canalpluscinema.fr" tvg-name="FR: Canal Cinema FHD" tvg-logo="http://pro.waldi2017.com/logo/france/canalplus_fr_cinema_hd.png" group-title="FRANCE FHD",FR: Canal Cinema FHD
+http://pro.bilix.ma:2082/live/110048490145344/71615111/15534.m3u8
+#EXTINF:-1 tvg-ID="canalplusdecale.fr" tvg-name="FR: Canal Decale FHD" tvg-logo="http://pro.waldi2017.com/logo/Alphabetic/canalplus_fr_decale_hd.png" group-title="FRANCE FHD",FR: Canal Decale FHD
+http://pro.bilix.ma:2082/live/110048490145344/71615111/15535.m3u8
+#EXTINF:-1 tvg-ID="canalplusfamily.fr" tvg-name="FR: Canal Family FHD" tvg-logo="http://pro.waldi2017.com/logo/france/canalplus_fr_family.png" group-title="FRANCE FHD",FR: Canal Family FHD
+http://pro.bilix.ma:2082/live/110048490145344/71615111/15536.m3u8
+#EXTINF:-1 tvg-ID="canalplusseries.fr" tvg-name="FR: Canal Series FHD" tvg-logo="http://pro.waldi2017.com/logo/france/canalplus_fr_series.png" group-title="FRANCE FHD",FR: Canal Series FHD
+http://pro.bilix.ma:2082/live/110048490145344/71615111/15538.m3u8
+#EXTINF:-1 tvg-ID="cartoonnetwork.fr" tvg-name="FR: Cartoon Network FHD" tvg-logo="http://pro.waldi2017.com/logo/france/cartoon_network_global.png" group-title="FRANCE KIDS",FR: Cartoon Network FHD
+http://pro.bilix.ma:2082/live/110048490145344/71615111/15540.m3u8
+#EXTINF:-1 tvg-ID="chassepeche.fr" tvg-name="FR: Chasse ET Peche FHD" tvg-logo="http://pro.waldi2017.com/logo/france/chasse_et_peche.png" group-title="FRANCE FHD",FR: Chasse ET Peche FHD
+http://pro.bilix.ma:2082/live/110048490145344/71615111/15541.m3u8
+#EXTINF:-1 tvg-ID="cherie25.fr" tvg-name="FR: Cherie 25 FHD" tvg-logo="http://pro.waldi2017.com/logo/france/cherie_25_fr.png" group-title="FRANCE FHD",FR: Cherie 25 FHD
+http://pro.bilix.ma:2082/live/110048490145344/71615111/15542.m3u8
+#EXTINF:-1 tvg-ID="cineplusclassic.fr" tvg-name="FR: Cine Classic FHD" tvg-logo="http://pro.waldi2017.com/logo/france/canalplus_fr_cine_plus_classic.png" group-title="FRANCE FHD",FR: Cine Classic FHD
+http://pro.bilix.ma:2082/live/110048490145344/71615111/15543.m3u8
+#EXTINF:-1 tvg-ID="cineplusclub.fr" tvg-name="FR: Cine Club FHD" tvg-logo="http://pro.waldi2017.com/logo/Alphabetic/canalplus_fr_cine_plus_club.png" group-title="FRANCE FHD",FR: Cine Club FHD
+http://pro.bilix.ma:2082/live/110048490145344/71615111/15544.m3u8
+#EXTINF:-1 tvg-ID="cineplusemotion.fr" tvg-name="FR: Cine Emotion FHD" tvg-logo="http://pro.waldi2017.com/logo/Alphabetic/canalplus_fr_cine_plus_emotion_hd.png" group-title="FRANCE FHD",FR: Cine Emotion FHD
+http://pro.bilix.ma:2082/live/110048490145344/71615111/15545.m3u8
+#EXTINF:-1 tvg-ID="cineplusamiz.fr" tvg-name="FR: Cine Famiz FHD" tvg-logo="http://pro.waldi2017.com/logo/france/canalplus_fr_cine_plus_famiz.png" group-title="FRANCE FHD",FR: Cine Famiz FHD
+http://pro.bilix.ma:2082/live/110048490145344/71615111/15546.m3u8
+#EXTINF:-1 tvg-ID="cineplusfrisson.fr" tvg-name="FR: Cine Frisson FHD" tvg-logo="http://pro.waldi2017.com/logo/france/canalplus_fr_cine_plus_frisson_hd.png" group-title="FRANCE FHD",FR: Cine Frisson FHD
+http://pro.bilix.ma:2082/live/110048490145344/71615111/15547.m3u8
+#EXTINF:-1 tvg-ID="cinepluspremier.fr" tvg-name="FR: Cine Premier FHD" tvg-logo="http://pro.waldi2017.com/logo/france/canalplus_fr_cine_plus_premier.png" group-title="FRANCE FHD",FR: Cine Premier FHD
+http://pro.bilix.ma:2082/live/110048490145344/71615111/15548.m3u8
+#EXTINF:-1 tvg-ID="comedieplus.fr" tvg-name="FR: Comedie + FHD" tvg-logo="http://pro.waldi2017.com/logo/Alphabetic/canalplus_fr_comedie_plus.png" group-title="FRANCE FHD",FR: Comedie + FHD
+http://pro.bilix.ma:2082/live/110048490145344/71615111/15549.m3u8
+#EXTINF:-1 tvg-ID="crimedistrict.fr" tvg-name="FR: Crime District FHD" tvg-logo="http://pro.waldi2017.com/logo/Alphabetic/crime_district_fr.png" group-title="FRANCE FHD",FR: Crime District FHD
+http://pro.bilix.ma:2082/live/110048490145344/71615111/15550.m3u8
+#EXTINF:-1 tvg-ID="discoverychannel.fr" tvg-name="FR: Discovery Channel FHD" tvg-logo="http://pro.waldi2017.com/logo/Alphabetic/discovery_global_us_hd.png" group-title="FRANCE FHD",FR: Discovery Channel FHD
+http://pro.bilix.ma:2082/live/110048490145344/71615111/15551.m3u8
+#EXTINF:-1 tvg-ID="discoveryscience.fr" tvg-name="FR: Discovery Science FHD" tvg-logo="http://pro.waldi2017.com/logo/Alphabetic/discovery_science_global_hd.png" group-title="FRANCE FHD",FR: Discovery Science FHD
+http://pro.bilix.ma:2082/live/110048490145344/71615111/15552.m3u8
+#EXTINF:-1 tvg-ID="polarplus.fr" tvg-name="FR: POLAR+ FHD" tvg-logo="http://pro.waldi2017.com/logo/Alphabetic/cine_polar.png" group-title="FRANCE FHD",FR: POLAR+ FHD
+http://pro.bilix.ma:2082/live/110048490145344/71615111/31417.m3u8
+#EXTINF:-1 tvg-ID="6ter.fr" tvg-name="FR: 6TER FHD" tvg-logo="http://pro.waldi2017.com/logo/france/6ter_fr.png" group-title="FRANCE FHD",FR: 6TER FHD
+http://pro.bilix.ma:2082/live/110048490145344/71615111/71288.m3u8
+#EXTINF:-1 tvg-ID="mtv.fr" tvg-name="FR: MTV FHD" tvg-logo="http://pro.waldi2017.com/logo/france/mtv_us.png" group-title="FRANCE FHD",FR: MTV FHD
+http://pro.bilix.ma:2082/live/110048490145344/71615111/71349.m3u8
+#EXTINF:-1 tvg-ID="rmcstory.fr" tvg-name="FR: RMC STORY FHD" tvg-logo="http://pro.waldi2017.com/logo/france/rmc_decouverte.png" group-title="FRANCE FHD",FR: RMC STORY FHD
+http://pro.bilix.ma:2082/live/110048490145344/71615111/71350.m3u8
+#EXTINF:-1 tvg-ID="eentertainment.fr" tvg-name="FR: E! Entertainment FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/1/14/E%21_logo.svg/278px-E%21_logo.svg.png" group-title="FRANCE FHD",FR: E! Entertainment FHD
+http://pro.bilix.ma:2082/live/110048490145344/71615111/15553.m3u8
+#EXTINF:-1 tvg-ID="footplus24.fr" tvg-name="FR: Foot 24 FHD" tvg-logo="http://pro.waldi2017.com/logo/france/canalsat_fr_foot_plus_mau_mada_1.png" group-title="FRANCE FHD",FR: Foot 24 FHD
+http://pro.bilix.ma:2082/live/110048490145344/71615111/15557.m3u8
+#EXTINF:-1 tvg-ID="franceo.fr" tvg-name="FR: France O FHD" tvg-logo="http://pro.waldi2017.com/logo/france/france_o.png" group-title="FRANCE FHD",FR: France O FHD
+http://pro.bilix.ma:2082/live/110048490145344/71615111/15558.m3u8
+#EXTINF:-1 tvg-ID="france2.fr" tvg-name="FR: France 2 FHD" tvg-logo="http://pro.waldi2017.com/logo/france/france2_hd.png" group-title="FRANCE FHD",FR: France 2 FHD
+http://pro.bilix.ma:2082/live/110048490145344/71615111/15559.m3u8
+#EXTINF:-1 tvg-ID="france24.fr" tvg-name="FR: France 24 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/2/24/Logos_FRANCE24_RVB_2013.svg/1200px-Logos_FRANCE24_RVB_2013.svg.png" group-title="FRANCE FHD",FR: France 24 FHD
+http://pro.bilix.ma:2082/live/110048490145344/71615111/15560.m3u8
+#EXTINF:-1 tvg-ID="france3.fr" tvg-name="FR: France 3 FHD" tvg-logo="http://pro.waldi2017.com/logo/france/france3_hd.png" group-title="FRANCE FHD",FR: France 3 FHD
+http://pro.bilix.ma:2082/live/110048490145344/71615111/15561.m3u8
+#EXTINF:-1 tvg-ID="france4.fr" tvg-name="FR: France 4 FHD" tvg-logo="http://pro.waldi2017.com/logo/france/france3_hd.png" group-title="FRANCE FHD",FR: France 4 FHD
+http://pro.bilix.ma:2082/live/110048490145344/71615111/15562.m3u8
+#EXTINF:-1 tvg-ID="france5.fr" tvg-name="FR: France 5 FHD" tvg-logo="http://pro.waldi2017.com/logo/france/france5.png" group-title="FRANCE FHD",FR: France 5 FHD
+http://pro.bilix.ma:2082/live/110048490145344/71615111/15563.m3u8
+#EXTINF:-1 tvg-ID="histoire.fr" tvg-name="FR: Histoire FHD" tvg-logo="http://pro.waldi2017.com/logo/france/histoire_fr.png" group-title="FRANCE FHD",FR: Histoire FHD
+http://pro.bilix.ma:2082/live/110048490145344/71615111/15564.m3u8
+#EXTINF:-1 tvg-ID="m6.fr" tvg-name="FR: M6 FHD" tvg-logo="http://pro.waldi2017.com/logo/france/m6_fr.png" group-title="FRANCE FHD",FR: M6 FHD
+http://pro.bilix.ma:2082/live/110048490145344/71615111/12756.m3u8
+#EXTINF:-1 tvg-ID="natgeowild.fr" tvg-name="FR: Nat Geo Wild FHD" tvg-logo="http://pro.waldi2017.com/logo/france/nat_geo_wild_us.png" group-title="FRANCE FHD",FR: Nat Geo Wild FHD
+http://pro.bilix.ma:2082/live/110048490145344/71615111/15568.m3u8
+#EXTINF:-1 tvg-ID="natgeo.fr" tvg-name="FR: National Geographic FHD" tvg-logo="http://pro.waldi2017.com/logo/france/nat_geo_us.png" group-title="FRANCE FHD",FR: National Geographic FHD
+http://pro.bilix.ma:2082/live/110048490145344/71615111/15569.m3u8
+#EXTINF:-1 tvg-ID="ocschoc.fr" tvg-name="FR: OCS CHOC FHD" tvg-logo="http://pro.waldi2017.com/logo/france/ocs_choc.png" group-title="FRANCE FHD",FR: OCS CHOC FHD
+http://pro.bilix.ma:2082/live/110048490145344/71615111/15572.m3u8
+#EXTINF:-1 tvg-ID="bfmtv.fr" tvg-name="FR: BFM FHD" tvg-logo="http://pro.waldi2017.com/logo/france/bfm_fr_tv.png" group-title="FRANCE FHD",FR: BFM FHD
+http://pro.bilix.ma:2082/live/110048490145344/71615111/71467.m3u8
+#EXTINF:-1 tvg-ID="cstar.fr" tvg-name="FR:  CSTAR FHD" tvg-logo="http://pro.waldi2017.com/logo/Alphabetic/canalplus_fr_cine_plus_star.png" group-title="FRANCE FHD",FR:  CSTAR FHD
+http://pro.bilix.ma:2082/live/110048490145344/71615111/71468.m3u8
+#EXTINF:-1 tvg-ID="lci.fr" tvg-name="FR: MCM FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/38/LCI_-_Logo_%28Ao%C3%BBt_2017%29.svg/1200px-LCI_-_Logo_%28Ao%C3%BBt_2017%29.svg.png" group-title="FRANCE FHD",FR: MCM FHD
+http://pro.bilix.ma:2082/live/110048490145344/71615111/71471.m3u8
+#EXTINF:-1 tvg-ID="rmcdecouverte.fr" tvg-name="FR: RMC Decouvert FHD" tvg-logo="http://pro.waldi2017.com/logo/france/rmc_decouverte.png" group-title="FRANCE FHD",FR: RMC Decouvert FHD
+http://pro.bilix.ma:2082/live/110048490145344/71615111/71472.m3u8
+#EXTINF:-1 tvg-ID="ocscity.fr" tvg-name="FR: OCS City FHD" tvg-logo="http://pro.waldi2017.com/logo/france/ocs_city.png" group-title="FRANCE FHD",FR: OCS City FHD
+http://pro.bilix.ma:2082/live/110048490145344/71615111/15573.m3u8
+#EXTINF:-1 tvg-ID="ocsgeants.fr" tvg-name="FR: OCS Geants FHD" tvg-logo="http://pro.waldi2017.com/logo/france/ocs_geants.png" group-title="FRANCE FHD",FR: OCS Geants FHD
+http://pro.bilix.ma:2082/live/110048490145344/71615111/15574.m3u8
+#EXTINF:-1 tvg-ID="ocsmax.fr" tvg-name="FR: OCS Max FHD" tvg-logo="http://pro.waldi2017.com/logo/france/ocs_max.png" group-title="FRANCE FHD",FR: OCS Max FHD
+http://pro.bilix.ma:2082/live/110048490145344/71615111/15575.m3u8
+#EXTINF:-1 tvg-ID="paramountchannel.fr" tvg-name="FR: Paramount Channel FHD" tvg-logo="http://pro.waldi2017.com/logo/france/paramount_channel_us.png" group-title="FRANCE FHD",FR: Paramount Channel FHD
+http://pro.bilix.ma:2082/live/110048490145344/71615111/15576.m3u8
+#EXTINF:-1 tvg-ID="parispremiere.fr" tvg-name="FR: Paris Premiere FHD" tvg-logo="http://pro.waldi2017.com/logo/france/paris_premiere_hd.png" group-title="FRANCE FHD",FR: Paris Premiere FHD
+http://pro.bilix.ma:2082/live/110048490145344/71615111/15577.m3u8
+#EXTINF:-1 tvg-ID="planeteadventureexperience.fr" tvg-name="FR: Planete AE FHD" tvg-logo="http://pro.waldi2017.com/logo/france/planete_plus_action_experience.png" group-title="FRANCE FHD",FR: Planete AE FHD
+http://pro.bilix.ma:2082/live/110048490145344/71615111/15578.m3u8
+#EXTINF:-1 tvg-ID="planeteplus.fr" tvg-name="FR: Planete FHD" tvg-logo="http://pro.waldi2017.com/logo/france/planete_plus_hd.png" group-title="FRANCE FHD",FR: Planete FHD
+http://pro.bilix.ma:2082/live/110048490145344/71615111/15580.m3u8
+#EXTINF:-1 tvg-ID="planetecrimeinvestigation.fr" tvg-name="FR: Planete CI FHD" tvg-logo="http://pro.waldi2017.com/logo/france/planete_plus_crime_investigation.png" group-title="FRANCE FHD",FR: Planete CI FHD
+http://pro.bilix.ma:2082/live/110048490145344/71615111/15579.m3u8
+#EXTINF:-1 tvg-ID="rtl9.fr" tvg-name="FR: RTL 9 FHD" tvg-logo="http://pro.waldi2017.com/logo/france/rtl9.png" group-title="FRANCE FHD",FR: RTL 9 FHD
+http://pro.bilix.ma:2082/live/110048490145344/71615111/15581.m3u8
+#EXTINF:-1 tvg-ID="scienceandvie.fr" tvg-name="FR: Science Vie FHD" tvg-logo="http://pro.waldi2017.com/logo/france/science_et_vie_tv_fr.png" group-title="FRANCE FHD",FR: Science Vie FHD
+http://pro.bilix.ma:2082/live/110048490145344/71615111/15582.m3u8
+#EXTINF:-1 tvg-ID="seasons.fr" tvg-name="FR: Seasons FHD" tvg-logo="http://pro.waldi2017.com/logo/france/canalplus_fr_seasons.png" group-title="FRANCE FHD",FR: Seasons FHD
+http://pro.bilix.ma:2082/live/110048490145344/71615111/15583.m3u8
+#EXTINF:-1 tvg-ID="syfy.fr" tvg-name="FR: SyFy Universal FHD" tvg-logo="http://pro.waldi2017.com/logo/Alphabetic/syfy_us_east.png" group-title="FRANCE FHD",FR: SyFy Universal FHD
+http://pro.bilix.ma:2082/live/110048490145344/71615111/15584.m3u8
+#EXTINF:-1 tvg-ID="tcm.fr" tvg-name="FR: TCM Cinema FHD" tvg-logo="http://pro.waldi2017.com/logo/france/tcm_cinema_fr.png" group-title="FRANCE FHD",FR: TCM Cinema FHD
+http://pro.bilix.ma:2082/live/110048490145344/71615111/15586.m3u8
+#EXTINF:-1 tvg-ID="teva.fr" tvg-name="FR: Teva FHD" tvg-logo="http://pro.waldi2017.com/logo/france/teva_fr.png" group-title="FRANCE FHD",FR: Teva FHD
+http://pro.bilix.ma:2082/live/110048490145344/71615111/15587.m3u8
+#EXTINF:-1 tvg-ID="tf1.fr" tvg-name="FR: TF1 FHD" tvg-logo="http://pro.waldi2017.com/logo/france/tf1_hd.png" group-title="FRANCE FHD",FR: TF1 FHD
+http://pro.bilix.ma:2082/live/110048490145344/71615111/12764.m3u8
+#EXTINF:-1 tvg-ID="tfx.fr" tvg-name="FR: TFX FHD" tvg-logo="http://pro.waldi2017.com/logo/Alphabetic/tf1_hd.png" group-title="FRANCE FHD",FR: TFX FHD
+http://pro.bilix.ma:2082/live/110048490145344/71615111/15570.m3u8
+#EXTINF:-1 tvg-ID="tmc.fr" tvg-name="FR: TMC FHD" tvg-logo="http://pro.waldi2017.com/logo/Alphabetic/tmc_ch.png" group-title="FRANCE FHD",FR: TMC FHD
+http://pro.bilix.ma:2082/live/110048490145344/71615111/15588.m3u8
+#EXTINF:-1 tvg-ID="tf1seriesfilms.fr" tvg-name="FR: TF1 Series Films FHD" tvg-logo="http://pro.waldi2017.com/logo/france/tf1_hd.png" group-title="FRANCE FHD",FR: TF1 Series Films FHD
+http://pro.bilix.ma:2082/live/110048490145344/71615111/15592.m3u8
+#EXTINF:-1 tvg-ID="toutehistoire.fr" tvg-name="FR: TOUTE l'HISTOIRE FHD" tvg-logo="http://pro.waldi2017.com/logo/france/toute_histoire_fr.png" group-title="FRANCE FHD",FR: TOUTE l'HISTOIRE FHD
+http://pro.bilix.ma:2082/live/110048490145344/71615111/15595.m3u8
+#EXTINF:-1 tvg-ID="tvbreizh.fr" tvg-name="FR: TV Breizh FHD" tvg-logo="http://pro.waldi2017.com/logo/france/tv_breizh_fr.png" group-title="FRANCE FHD",FR: TV Breizh FHD
+http://pro.bilix.ma:2082/live/110048490145344/71615111/15590.m3u8
+#EXTINF:-1 tvg-ID="ushuaiatv.fr" tvg-name="FR: Ushuaia TV FHD" tvg-logo="http://pro.waldi2017.com/logo/france/ushuaia_tv.png" group-title="FRANCE FHD",FR: Ushuaia TV FHD
+http://pro.bilix.ma:2082/live/110048490145344/71615111/15591.m3u8
+#EXTINF:-1 tvg-ID="voyage.fr" tvg-name="FR: Voyage FHD" tvg-logo="http://pro.waldi2017.com/logo/france/voyage_fr.png" group-title="FRANCE FHD",FR: Voyage FHD
+http://pro.bilix.ma:2082/live/110048490145344/71615111/15593.m3u8
+#EXTINF:-1 tvg-ID="w9.fr" tvg-name="FR: W9 FHD" tvg-logo="http://pro.waldi2017.com/logo/france/w9_fr_hd.png" group-title="FRANCE FHD",FR: W9 FHD
+http://pro.bilix.ma:2082/live/110048490145344/71615111/15594.m3u8
+#EXTINF:-1 tvg-ID="telefoot.fr" tvg-name="FR: TELEFOOT HD" tvg-logo="https://assets-fr.imgfoot.com/telefoot-stadium-5f3ff8321de8a.png" group-title="FRANCE SPORT",FR: TELEFOOT HD
+http://pro.bilix.ma:2082/live/110048490145344/71615111/18291.m3u8
+#EXTINF:-1 tvg-ID="telefoot.fr" tvg-name="FR: TELEFOOT HD BK" tvg-logo="https://assets-fr.imgfoot.com/telefoot-stadium-5f3ff8321de8a.png" group-title="FRANCE SPORT",FR: TELEFOOT HD BK
+http://pro.bilix.ma:2082/live/110048490145344/71615111/71364.m3u8
+#EXTINF:-1 tvg-ID="telefoot.fr" tvg-name="FR: TELEFOOT FHD" tvg-logo="https://assets-fr.imgfoot.com/telefoot-stadium-5f3ff8321de8a.png" group-title="FRANCE SPORT",FR: TELEFOOT FHD
+http://pro.bilix.ma:2082/live/110048490145344/71615111/42447.m3u8
+#EXTINF:-1 tvg-ID="telefoot.fr" tvg-name="FR: Telefoot sd" tvg-logo="https://assets-fr.imgfoot.com/telefoot-stadium-5f3ff8321de8a.png" group-title="FRANCE SPORT",FR: Telefoot sd
+http://pro.bilix.ma:2082/live/110048490145344/71615111/71369.m3u8
+#EXTINF:-1 tvg-ID="telefootstadium1.fr" tvg-name="FR: TELEFOOT STADIUM 1" tvg-logo="https://assets-fr.imgfoot.com/telefoot-stadium-1-5f3ff86e6de94.png" group-title="FRANCE SPORT",FR: TELEFOOT STADIUM 1
+http://pro.bilix.ma:2082/live/110048490145344/71615111/42448.m3u8
+#EXTINF:-1 tvg-ID="telefootstadium2.fr" tvg-name="FR: TELEFOOT STADIUM 2" tvg-logo="https://assets-fr.imgfoot.com/telefoot-stadium-2-5f3ff890c0281.png" group-title="FRANCE SPORT",FR: TELEFOOT STADIUM 2
+http://pro.bilix.ma:2082/live/110048490145344/71615111/42449.m3u8
+#EXTINF:-1 tvg-ID="telefootstadium3.fr" tvg-name="FR: TELEFOOT STADIUM 3" tvg-logo="https://assets-fr.imgfoot.com/telefoot-stadium-3-5f3ff8ad5d7fb.png" group-title="FRANCE SPORT",FR: TELEFOOT STADIUM 3
+http://pro.bilix.ma:2082/live/110048490145344/71615111/42450.m3u8
+#EXTINF:-1 tvg-ID="telefootstadium4.fr" tvg-name="FR: TELEFOOT STADIUM 4" tvg-logo="https://assets-fr.imgfoot.com/telefoot-stadium-4-5f3ff8d77ab6b.png" group-title="FRANCE SPORT",FR: TELEFOOT STADIUM 4
+http://pro.bilix.ma:2082/live/110048490145344/71615111/42451.m3u8
+#EXTINF:-1 tvg-ID="telefootstadium5.fr" tvg-name="FR: TELEFOOT STADIUM 5" tvg-logo="https://assets-fr.imgfoot.com/telefoot-stadium-5-5f3ff8f3a981f.png" group-title="FRANCE SPORT",FR: TELEFOOT STADIUM 5
+http://pro.bilix.ma:2082/live/110048490145344/71615111/42452.m3u8
+#EXTINF:-1 tvg-ID="telefootstadium6.fr" tvg-name="FR: TELEFOOT STADIUM 6" tvg-logo="https://assets-fr.imgfoot.com/telefoot-stadium-6-5f3ff912d173d.png" group-title="FRANCE SPORT",FR: TELEFOOT STADIUM 6
+http://pro.bilix.ma:2082/live/110048490145344/71615111/42453.m3u8
+#EXTINF:-1 tvg-ID="telefootstadium8.fr" tvg-name="FR: TELEFOOT STADIUM 8" tvg-logo="https://assets-fr.imgfoot.com/telefoot-stadium-8-5f3ff94843ff1.png" group-title="FRANCE SPORT",FR: TELEFOOT STADIUM 8
+http://pro.bilix.ma:2082/live/110048490145344/71615111/42454.m3u8
+#EXTINF:-1 tvg-ID="telefootstadium7.fr" tvg-name="FR: TELEFOOT STADIUM 7" tvg-logo="https://assets-fr.imgfoot.com/telefoot-stadium-7-5f3ff92d15412.png" group-title="FRANCE SPORT",FR: TELEFOOT STADIUM 7
+http://pro.bilix.ma:2082/live/110048490145344/71615111/42455.m3u8
+#EXTINF:-1 tvg-ID="beinsports1.fr" tvg-name="FR: BeIN SPORTS 1" tvg-logo="http://pro.waldi2017.com/logo/arab/be_in_mena_sports_01_hd.png" group-title="FRANCE SPORT",FR: BeIN SPORTS 1
+http://pro.bilix.ma:2082/live/110048490145344/71615111/37.m3u8
+#EXTINF:-1 tvg-ID="beinsports1.fr" tvg-name="FR: BEIN SPORT 1 FHD" tvg-logo="http://pro.waldi2017.com/logo/arab/be_in_mena_sports_01_hd.png" group-title="FRANCE SPORT",FR: BEIN SPORT 1 FHD
+http://pro.bilix.ma:2082/live/110048490145344/71615111/14278.m3u8
+#EXTINF:-1 tvg-ID="beinsports2.fr" tvg-name="FR: BeIN SPORTS 2" tvg-logo="http://pro.waldi2017.com/logo/arab/be_in_mena_sports_02_hd.png" group-title="FRANCE SPORT",FR: BeIN SPORTS 2
+http://pro.bilix.ma:2082/live/110048490145344/71615111/38.m3u8
+#EXTINF:-1 tvg-ID="beinsports2.fr" tvg-name="FR: BEIN SPORT 2 FHD" tvg-logo="http://pro.waldi2017.com/logo/arab/be_in_mena_sports_02_hd.png" group-title="FRANCE SPORT",FR: BEIN SPORT 2 FHD
+http://pro.bilix.ma:2082/live/110048490145344/71615111/15531.m3u8
+#EXTINF:-1 tvg-ID="beinsports3.fr" tvg-name="FR: BeIN SPORTS 3" tvg-logo="http://pro.waldi2017.com/logo/arab/be_in_mena_sports_03_hd.png" group-title="FRANCE SPORT",FR: BeIN SPORTS 3
+http://pro.bilix.ma:2082/live/110048490145344/71615111/39.m3u8
+#EXTINF:-1 tvg-ID="beinsports3.fr" tvg-name="FR: BEIN SPORT 3 FHD" tvg-logo="http://pro.waldi2017.com/logo/arab/be_in_mena_sports_03_hd.png" group-title="FRANCE SPORT",FR: BEIN SPORT 3 FHD
+http://pro.bilix.ma:2082/live/110048490145344/71615111/15532.m3u8
+#EXTINF:-1 tvg-ID="bein4max.fr" tvg-name="FR: BeIN SPORTS MAX 4" tvg-logo="http://pro.waldi2017.com/logo/france/be_in_mena_sports_max_04.png" group-title="FRANCE SPORT",FR: BeIN SPORTS MAX 4
+http://pro.bilix.ma:2082/live/110048490145344/71615111/40.m3u8
+#EXTINF:-1 tvg-ID="bein5max.fr" tvg-name="FR: BeIN SPORTS MAX 5" tvg-logo="http://pro.waldi2017.com/logo/france/be_in_mena_sports_max_05_hd.png" group-title="FRANCE SPORT",FR: BeIN SPORTS MAX 5
+http://pro.bilix.ma:2082/live/110048490145344/71615111/41.m3u8
+#EXTINF:-1 tvg-ID="bein6max.fr" tvg-name="FR: BeIN SPORTS MAX 6" tvg-logo="http://pro.waldi2017.com/logo/france/be_in_mena_sports_max_06.png" group-title="FRANCE SPORT",FR: BeIN SPORTS MAX 6
+http://pro.bilix.ma:2082/live/110048490145344/71615111/3189.m3u8
+#EXTINF:-1 tvg-ID="bein7max.fr" tvg-name="FR: BeIN SPORTS MAX 7" tvg-logo="http://pro.waldi2017.com/logo/france/be_in_mena_sports_max_07.png" group-title="FRANCE SPORT",FR: BeIN SPORTS MAX 7
+http://pro.bilix.ma:2082/live/110048490145344/71615111/3188.m3u8
+#EXTINF:-1 tvg-ID="bein8max.fr" tvg-name="FR: BeIN SPORTS MAX 8" tvg-logo="http://pro.waldi2017.com/logo/france/be_in_mena_sports_max_08.png" group-title="FRANCE SPORT",FR: BeIN SPORTS MAX 8
+http://pro.bilix.ma:2082/live/110048490145344/71615111/3187.m3u8
+#EXTINF:-1 tvg-ID="bein9max.fr" tvg-name="FR: BEINSPORT MAX 9" tvg-logo="" group-title="FRANCE SPORT",FR: BEINSPORT MAX 9
+http://pro.bilix.ma:2082/live/110048490145344/71615111/31826.m3u8
+#EXTINF:-1 tvg-ID="bein10max.fr" tvg-name="FR: BEINSPORT MAX 10" tvg-logo="" group-title="FRANCE SPORT",FR: BEINSPORT MAX 10
+http://pro.bilix.ma:2082/live/110048490145344/71615111/31825.m3u8
+#EXTINF:-1 tvg-ID="canalplussport.fr" tvg-name="FR: Canal+Sport" tvg-logo="http://pro.waldi2017.com/logo/Alphabetic/canalplus_fr_sport.png" group-title="FRANCE SPORT",FR: Canal+Sport
+http://pro.bilix.ma:2082/live/110048490145344/71615111/33.m3u8
+#EXTINF:-1 tvg-ID="canalplussport.fr" tvg-name="FR: Canal Sport FHD" tvg-logo="http://pro.waldi2017.com/logo/Alphabetic/canalplus_fr_sport.png" group-title="FRANCE FHD",FR: Canal Sport FHD
+http://pro.bilix.ma:2082/live/110048490145344/71615111/15539.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="FR: MULTISPORT1" tvg-logo="" group-title="FRANCE SPORT",FR: MULTISPORT1
+http://pro.bilix.ma:2082/live/110048490145344/71615111/71482.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="FR: MULTISPORT2" tvg-logo="" group-title="FRANCE SPORT",FR: MULTISPORT2
+http://pro.bilix.ma:2082/live/110048490145344/71615111/71483.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="FR: MULTISPORT5" tvg-logo="" group-title="FRANCE SPORT",FR: MULTISPORT5
+http://pro.bilix.ma:2082/live/110048490145344/71615111/71484.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="FR: MULTISPORT6" tvg-logo="" group-title="FRANCE SPORT",FR: MULTISPORT6
+http://pro.bilix.ma:2082/live/110048490145344/71615111/71485.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="FR: MULTISPORT4" tvg-logo="" group-title="FRANCE SPORT",FR: MULTISPORT4
+http://pro.bilix.ma:2082/live/110048490145344/71615111/71486.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="FR: MULTISPORT3" tvg-logo="" group-title="FRANCE SPORT",FR: MULTISPORT3
+http://pro.bilix.ma:2082/live/110048490145344/71615111/71487.m3u8
+#EXTINF:-1 tvg-ID="eurosport1.fr" tvg-name="FR: Eurosport 1" tvg-logo="http://pro.waldi2017.com/logo/france/eurosport_fr_1.png" group-title="FRANCE SPORT",FR: Eurosport 1
+http://pro.bilix.ma:2082/live/110048490145344/71615111/165.m3u8
+#EXTINF:-1 tvg-ID="eurosport1.fr" tvg-name="FR: EUROSPORT 1 SD" tvg-logo="" group-title="FRANCE SPORT",FR: EUROSPORT 1 SD
+http://pro.bilix.ma:2082/live/110048490145344/71615111/31192.m3u8
+#EXTINF:-1 tvg-ID="eurosport1.fr" tvg-name="FR: Eurosport 1 France FHD" tvg-logo="http://pro.waldi2017.com/logo/france/eurosport_fr_1.png" group-title="FRANCE FHD",FR: Eurosport 1 France FHD
+http://pro.bilix.ma:2082/live/110048490145344/71615111/15555.m3u8
+#EXTINF:-1 tvg-ID="eurosport2.fr" tvg-name="FR: Eurosport 2" tvg-logo="http://pro.waldi2017.com/logo/france/eurosport_fr_2.png" group-title="FRANCE SPORT",FR: Eurosport 2
+http://pro.bilix.ma:2082/live/110048490145344/71615111/166.m3u8
+#EXTINF:-1 tvg-ID="eurosport2.fr" tvg-name="FR: Eurosport 2 France FHD" tvg-logo="http://pro.waldi2017.com/logo/france/eurosport_fr_2.png" group-title="FRANCE FHD",FR: Eurosport 2 France FHD
+http://pro.bilix.ma:2082/live/110048490145344/71615111/15556.m3u8
+#EXTINF:-1 tvg-ID="eurosport2.fr" tvg-name="FR: EUROSPORT 2 SD" tvg-logo="" group-title="FRANCE SPORT",FR: EUROSPORT 2 SD
+http://pro.bilix.ma:2082/live/110048490145344/71615111/31193.m3u8
+#EXTINF:-1 tvg-ID="equidialive.fr" tvg-name="FR: Equidia Live FHD" tvg-logo="http://pro.waldi2017.com/logo/france/equidia_live.png" group-title="FRANCE FHD",FR: Equidia Live FHD
+http://pro.bilix.ma:2082/live/110048490145344/71615111/15554.m3u8
+#EXTINF:-1 tvg-ID="footplus24.fr" tvg-name="FR: Foot+ 24/24" tvg-logo="http://pro.waldi2017.com/logo/france/canalsat_fr_foot_plus_mau_mada_1.png" group-title="FRANCE SPORT",FR: Foot+ 24/24
+http://pro.bilix.ma:2082/live/110048490145344/71615111/448.m3u8
+#EXTINF:-1 tvg-ID="golfplus.fr" tvg-name="FR: Golf+" tvg-logo="http://pro.waldi2017.com/logo/france/canalplus_fr_golf_plus.png" group-title="FRANCE SPORT",FR: Golf+
+http://pro.bilix.ma:2082/live/110048490145344/71615111/690.m3u8
+#EXTINF:-1 tvg-ID="golfplus.fr" tvg-name="FR: Golf+ FHD" tvg-logo="http://pro.waldi2017.com/logo/france/canalplus_fr_golf_plus.png" group-title="FRANCE FHD",FR: Golf+ FHD
+http://pro.bilix.ma:2082/live/110048490145344/71615111/26135.m3u8
+#EXTINF:-1 tvg-ID="Golf Channel FR" tvg-name="FR: Golf channel" tvg-logo="http://pro.waldi2017.com/logo/france/golf_channel_us.png" group-title="FRANCE SPORT",FR: Golf channel
+http://pro.bilix.ma:2082/live/110048490145344/71615111/10415.m3u8
+#EXTINF:-1 tvg-ID="infosportplus.fr" tvg-name="FR: InfosportPlus" tvg-logo="http://pro.waldi2017.com/logo/france/canalplus_fr_infosport_plus.png" group-title="FRANCE SPORT",FR: InfosportPlus
+http://pro.bilix.ma:2082/live/110048490145344/71615111/167.m3u8
+#EXTINF:-1 tvg-ID="infosportplus.fr" tvg-name="FR: Infosport FHD" tvg-logo="http://pro.waldi2017.com/logo/france/canalplus_fr_infosport_plus.png" group-title="FRANCE FHD",FR: Infosport FHD
+http://pro.bilix.ma:2082/live/110048490145344/71615111/15565.m3u8
+#EXTINF:-1 tvg-ID="infosportplus.fr" tvg-name="FR: INFOSPORT SD" tvg-logo="" group-title="FRANCE SPORT",FR: INFOSPORT SD
+http://pro.bilix.ma:2082/live/110048490145344/71615111/31194.m3u8
+#EXTINF:-1 tvg-ID="lequipe21.fr" tvg-name="FR: LEquipe 21" tvg-logo="http://pro.waldi2017.com/logo/france/l_equipe_fr.png" group-title="FRANCE HD",FR: LEquipe 21
+http://pro.bilix.ma:2082/live/110048490145344/71615111/32.m3u8
+#EXTINF:-1 tvg-ID="lequipe21.fr" tvg-name="FR: L'equipe TV FHD" tvg-logo="http://pro.waldi2017.com/logo/france/l_equipe_fr.png" group-title="FRANCE FHD",FR: L'equipe TV FHD
+http://pro.bilix.ma:2082/live/110048490145344/71615111/15567.m3u8
+#EXTINF:-1 tvg-ID="abmoteurs.fr" tvg-name="FR: Auto Moto" tvg-logo="http://pro.waldi2017.com/logo/Alphabetic/ab_moteurs_fr.png" group-title="FRANCE HD",FR: Auto Moto
+http://pro.bilix.ma:2082/live/110048490145344/71615111/3701.m3u8
+#EXTINF:-1 tvg-ID="extreme.fr" tvg-name="FR: Extreme Sports" tvg-logo="http://pro.waldi2017.com/logo/france/extreme_sports_fr.png" group-title="FRANCE SPORT",FR: Extreme Sports
+http://pro.bilix.ma:2082/live/110048490145344/71615111/12699.m3u8
+#EXTINF:-1 tvg-ID="motorstv.fr" tvg-name="FR: Motor sport" tvg-logo="http://pro.waldi2017.com/logo/france/motorsport_tv_fr.png" group-title="FRANCE SPORT",FR: Motor sport
+http://pro.bilix.ma:2082/live/110048490145344/71615111/15465.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="FR: RMC talk sport" tvg-logo="" group-title="FRANCE SPORT",FR: RMC talk sport
+http://pro.bilix.ma:2082/live/110048490145344/71615111/42385.m3u8
+#EXTINF:-1 tvg-ID="rmcsportnews.fr" tvg-name="FR: RMC Sport News" tvg-logo="https://static.s-sfr.fr/media/rmc_sport_rvb_sanscadre_v1.png" group-title="FRANCE SPORT",FR: RMC Sport News
+http://pro.bilix.ma:2082/live/110048490145344/71615111/12713.m3u8
+#EXTINF:-1 tvg-ID="rmcsport1.fr" tvg-name="FR: Rmc sport-1 " tvg-logo="" group-title="FRANCE SPORT",FR: Rmc sport-1 
+http://pro.bilix.ma:2082/live/110048490145344/71615111/33055.m3u8
+#EXTINF:-1 tvg-ID="rmcsport1.fr" tvg-name="FR: RMC Sport 1" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/3b/Logo_RMC_Sport_1_2018.svg/1280px-Logo_RMC_Sport_1_2018.svg.png" group-title="FRANCE SPORT",FR: RMC Sport 1
+http://pro.bilix.ma:2082/live/110048490145344/71615111/434.m3u8
+#EXTINF:-1 tvg-ID="rmcsport1.fr" tvg-name="FR: RMC SPORT 1 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/3b/Logo_RMC_Sport_1_2018.svg/1280px-Logo_RMC_Sport_1_2018.svg.png" group-title="FRANCE SPORT",FR: RMC SPORT 1 FHD
+http://pro.bilix.ma:2082/live/110048490145344/71615111/15596.m3u8
+#EXTINF:-1 tvg-ID="rmcsport1.fr" tvg-name="FR: RMC SPORT 1 SD" tvg-logo="" group-title="FRANCE SPORT",FR: RMC SPORT 1 SD
+http://pro.bilix.ma:2082/live/110048490145344/71615111/31419.m3u8
+#EXTINF:-1 tvg-ID="rmcsport2.fr" tvg-name="FR: RMC Sport 2" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/3a/Logo_RMC_Sport_2_2018.svg/1280px-Logo_RMC_Sport_2_2018.svg.png" group-title="FRANCE SPORT",FR: RMC Sport 2
+http://pro.bilix.ma:2082/live/110048490145344/71615111/451.m3u8
+#EXTINF:-1 tvg-ID="rmcsport2.fr" tvg-name="FR: RMC SPORT 2 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/3a/Logo_RMC_Sport_2_2018.svg/1280px-Logo_RMC_Sport_2_2018.svg.png" group-title="FRANCE SPORT",FR: RMC SPORT 2 FHD
+http://pro.bilix.ma:2082/live/110048490145344/71615111/15597.m3u8
+#EXTINF:-1 tvg-ID="rmcsport2.fr" tvg-name="FR: Rmc sport 2 SD" tvg-logo="" group-title="FRANCE SPORT",FR: Rmc sport 2 SD
+http://pro.bilix.ma:2082/live/110048490145344/71615111/31420.m3u8
+#EXTINF:-1 tvg-ID="rmcsport3.fr" tvg-name="FR: RMC Sport 3" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/7/71/Logo_RMC_Sport_3_2018.svg/1280px-Logo_RMC_Sport_3_2018.svg.png" group-title="FRANCE SPORT",FR: RMC Sport 3
+http://pro.bilix.ma:2082/live/110048490145344/71615111/435.m3u8
+#EXTINF:-1 tvg-ID="rmcsport3.fr" tvg-name="FR: RMC SPORT 3 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/7/71/Logo_RMC_Sport_3_2018.svg/1280px-Logo_RMC_Sport_3_2018.svg.png" group-title="FRANCE SPORT",FR: RMC SPORT 3 FHD
+http://pro.bilix.ma:2082/live/110048490145344/71615111/15598.m3u8
+#EXTINF:-1 tvg-ID="rmcsport3.fr" tvg-name="FR: Rmc sport 3 SD" tvg-logo="" group-title="FRANCE SPORT",FR: Rmc sport 3 SD
+http://pro.bilix.ma:2082/live/110048490145344/71615111/31421.m3u8
+#EXTINF:-1 tvg-ID="rmcsport4.fr" tvg-name="FR: RMC Sport 4" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/66/Logo_RMC_Sport_4_2018.svg/1280px-Logo_RMC_Sport_4_2018.svg.png" group-title="FRANCE SPORT",FR: RMC Sport 4
+http://pro.bilix.ma:2082/live/110048490145344/71615111/450.m3u8
+#EXTINF:-1 tvg-ID="rmcsport4.fr" tvg-name="FR: RMC SPORT 4 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/66/Logo_RMC_Sport_4_2018.svg/1280px-Logo_RMC_Sport_4_2018.svg.png" group-title="FRANCE SPORT",FR: RMC SPORT 4 FHD
+http://pro.bilix.ma:2082/live/110048490145344/71615111/15599.m3u8
+#EXTINF:-1 tvg-ID="rmcsportlive5.fr" tvg-name="FR: RMC SPORT LIVE 5" tvg-logo="" group-title="FRANCE SPORT",FR: RMC SPORT LIVE 5
+http://pro.bilix.ma:2082/live/110048490145344/71615111/33050.m3u8
+#EXTINF:-1 tvg-ID="rmcsportlive6.fr" tvg-name="FR: RMC SPORT LIVE 6" tvg-logo="" group-title="FRANCE SPORT",FR: RMC SPORT LIVE 6
+http://pro.bilix.ma:2082/live/110048490145344/71615111/33051.m3u8
+#EXTINF:-1 tvg-ID="rmcsportlive7.fr" tvg-name="FR: RMC SPORT LIVE 7" tvg-logo="" group-title="FRANCE SPORT",FR: RMC SPORT LIVE 7
+http://pro.bilix.ma:2082/live/110048490145344/71615111/33052.m3u8
+#EXTINF:-1 tvg-ID="rmcsportlive8.fr" tvg-name="FR: RMC SPORT LIVE 8" tvg-logo="" group-title="FRANCE SPORT",FR: RMC SPORT LIVE 8
+http://pro.bilix.ma:2082/live/110048490145344/71615111/33053.m3u8
+#EXTINF:-1 tvg-ID="rmcsportlive9.fr" tvg-name="FR: RMC SPORT LIVE 9" tvg-logo="" group-title="FRANCE SPORT",FR: RMC SPORT LIVE 9
+http://pro.bilix.ma:2082/live/110048490145344/71615111/33054.m3u8
+#EXTINF:-1 tvg-ID="rmcsportlive11.fr" tvg-name="FR: RMC SPORT LIVE 11" tvg-logo="" group-title="FRANCE SPORT",FR: RMC SPORT LIVE 11
+http://pro.bilix.ma:2082/live/110048490145344/71615111/33056.m3u8
+#EXTINF:-1 tvg-ID="rmcsportlive12.fr" tvg-name="FR: RMC SPORT LIVE 12" tvg-logo="" group-title="FRANCE SPORT",FR: RMC SPORT LIVE 12
+http://pro.bilix.ma:2082/live/110048490145344/71615111/33057.m3u8
+#EXTINF:-1 tvg-ID="rmcsportlive13.fr" tvg-name="FR: RMC SPORT LIVE 13" tvg-logo="" group-title="FRANCE SPORT",FR: RMC SPORT LIVE 13
+http://pro.bilix.ma:2082/live/110048490145344/71615111/33058.m3u8
+#EXTINF:-1 tvg-ID="rmcsportlive14.fr" tvg-name="FR: RMC SPORT LIVE 14" tvg-logo="" group-title="FRANCE SPORT",FR: RMC SPORT LIVE 14
+http://pro.bilix.ma:2082/live/110048490145344/71615111/33059.m3u8
+#EXTINF:-1 tvg-ID="rmcsportlive15.fr" tvg-name="FR: RMC SPORT LIVE 15" tvg-logo="" group-title="FRANCE SPORT",FR: RMC SPORT LIVE 15
+http://pro.bilix.ma:2082/live/110048490145344/71615111/33060.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Canal play 1" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/50/Canalplay.svg/1280px-Canalplay.svg.png" group-title="FRANCE BOXOFFICE",FR: Canal play 1
+http://pro.bilix.ma:2082/live/110048490145344/71615111/9819.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Canal play 2" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/50/Canalplay.svg/1280px-Canalplay.svg.png" group-title="FRANCE BOXOFFICE",FR: Canal play 2
+http://pro.bilix.ma:2082/live/110048490145344/71615111/9818.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Canal play 3" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/50/Canalplay.svg/1280px-Canalplay.svg.png" group-title="FRANCE BOXOFFICE",FR: Canal play 3
+http://pro.bilix.ma:2082/live/110048490145344/71615111/9817.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Canal play 4" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/50/Canalplay.svg/1280px-Canalplay.svg.png" group-title="FRANCE BOXOFFICE",FR: Canal play 4
+http://pro.bilix.ma:2082/live/110048490145344/71615111/3646.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Canal play 5" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/50/Canalplay.svg/1280px-Canalplay.svg.png" group-title="FRANCE BOXOFFICE",FR: Canal play 5
+http://pro.bilix.ma:2082/live/110048490145344/71615111/3404.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Canal play 6" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/50/Canalplay.svg/1280px-Canalplay.svg.png" group-title="FRANCE BOXOFFICE",FR: Canal play 6
+http://pro.bilix.ma:2082/live/110048490145344/71615111/3389.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Canal play 7" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/50/Canalplay.svg/1280px-Canalplay.svg.png" group-title="FRANCE BOXOFFICE",FR: Canal play 7
+http://pro.bilix.ma:2082/live/110048490145344/71615111/3643.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Canal play 8" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/50/Canalplay.svg/1280px-Canalplay.svg.png" group-title="FRANCE BOXOFFICE",FR: Canal play 8
+http://pro.bilix.ma:2082/live/110048490145344/71615111/3642.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Canal play 9" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/50/Canalplay.svg/1280px-Canalplay.svg.png" group-title="FRANCE BOXOFFICE",FR: Canal play 9
+http://pro.bilix.ma:2082/live/110048490145344/71615111/3641.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Canal play 10" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/50/Canalplay.svg/1280px-Canalplay.svg.png" group-title="FRANCE BOXOFFICE",FR: Canal play 10
+http://pro.bilix.ma:2082/live/110048490145344/71615111/3640.m3u8
